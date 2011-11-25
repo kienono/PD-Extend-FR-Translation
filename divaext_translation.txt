@@ -476,42 +476,42 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 
 ### EDIT MODE (4th block) ###
 
-!x08863580 %2d分%d%d秒%d%d%d
-!x08864014 読込容量:%5d(%d)
-!x08864050 読込容量:%5d
-!x0886408C 配置容量:%5d(%d)
-!x088640C8 配置容量:%5d
-!x08864824 曲に合わせてターゲットを入力することができます。
-!x08865F70 曲に合わせてマーカーを入力することができます。
-!x08866854 モジュールＡ選択
-!x08866868 モジュールＢ選択
-!x088668D4 使用楽曲の変更をすることができます。
-!x08866AE0 使用楽曲の変更をすることができます。
-!x088668E0 エディットで使用するモジュールＡの変更をすることができます。
-!x088668EC エディットで使用するモジュールＢの変更をすることができます。
-!x088668F8 エディットで使用するモーションの変更をすることができます。
-!x08866904 エディットで使用するアイテムの変更をすることができます。
-!x08866910 エディットで使用する背景の変更をすることができます。
-!x0886691C エディットで使用するエフェクトの変更をすることができます。
-!x08866928 リズムゲーム中に再生するボタン音を変更することができます。
-!x088680D0 拍子 %12d/4
-!x08868650 拍子 %12d/4
-!x088939D4 拍子 %12d/4
-!x08868290 BPM計測
-!x08868404 BPM計測
-!x08868A10 BPM計測
-!x088845F8 BPM計測
-!x08893AA0 BPM計測
-!x088682B4 BPMについて
-!x088682C8 決定
+!x08863580 %2d minutes %d%d secondes %d%d%d
+!x08864014 Espace utilisｪ:%5d(%d)
+!x08864050 Espace utilisｪ:%5d
+!x0886408C Espace restant:%5d(%d)
+!x088640C8 Espace restant:%5d
+!x08864824 Saisir les cibles en suivant la chanson.
+!x08865F70 Saisir les marqueurs en suivant la chanson.
+!x08866854 Choix du module A
+!x08866868 Choix du module B
+!x088668D4 Changer la chanson utilisｪe.
+!x08866AE0 Changer la chanson utilisｪe.
+!x088668E0 Changer le module A utilisｪ dans l'EDIT.
+!x088668EC Changer le module B utilisｪ dans l'EDIT.
+!x088668F8 Changer les mouvements utilisｪs dans l'EDIT.
+!x08866904 Changer les accessoires utilisｪs dans l'EDIT.
+!x08866910 Changer les fonds utilisｪs dans l'EDIT.
+!x0886691C Changer les effets utilisｪs dans l'EDIT.
+!x08866928 Changer le son des boutons du jeu.
+!x088680D0 Signature temps %12d/4
+!x08868650 Signature temps %12d/4
+!x088939D4 Signature temps %12d/4
+!x08868290 Mesure de BPM
+!x08868404 Mesure de BPM
+!x08868A10 Mesure de BPM
+!x088845F8 Mesure de BPM
+!x08893AA0 Mesure de BPM
+!x088682B4 A propos du BPM
+!x088682C8 Valider
 
-!x088682F4 楽曲のテンポを設定することができます。
-!x08868414 楽曲のテンポを設定することができます。
-!x08868420 1小節の拍数を設定することができます。
-!x08868428 BPMを手動で計測することができます。
-!x08868438 BPMに関しての説明を表示することができます。
-!x08893A40 BPMに関しての説明を表示することができます。
-!x08868440 現在の設定で楽曲のテンポと拍数を決定します。
+!x088682F4 Paramｪtrer le tempo de la chanson.
+!x08868414 Paramｪtrer le tempo de la chanson.
+!x08868420 Changer le nombre de temps d'une mesure.
+!x08868428 Mesure manuellement le BPM.
+!x08868438 Afficher des explications sur le BPM.
+!x08893A40 Afficher des explications sur le BPM.
+!x08868440 Valider le paramｪtrage de tempo.
 
 !x08868A34 □ボタンで楽曲を再生することができます。
 !x08868A48 再生された楽曲に合わせて△ボタン押し、
