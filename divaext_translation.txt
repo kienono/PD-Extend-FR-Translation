@@ -309,10 +309,10 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 !x088A0380 En utilisant le placement auto de cibles, les
 !x088A0394 cibles existantes seront effacｪes. Continuer?
 !x088A03BC ※Rｪsultat visible aprｫs un retour ｬ l'Edit TOP.
-!x088A0638 Confirmation de fin d'U+00E9dition
+!x088A0638 Confirmation de fin d'ｪdition
 !x088A06CC Retourner au menu.
-!x088A06F8 Les donnU+00E9es non enregistrU+00E9es seront
-!x088A0AB4 Les donnU+00E9es non enregistrU+00E9es seront
+!x088A06F8 Les donnｪes non enregistrｪes seront
+!x088A0AB4 Les donnｪes non enregistrｪes seront
 !x088A0724 toutes perdues. Continuer?
 !x088A0AE0 toutes perdues. Continuer?
 !x088A0A88 Retourner au choix des modes.
@@ -463,8 +463,8 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 !x0887B9F0 Cibles
 0x08C36E48 Cibles
 
-0x08C36E4C リアルタイム入力
-0x08C36E58 リアルタイム入力
+0x08C36E4C Saisie intｪractive
+0x08C36E58 Saisie intｪractive
 
 0x08C36E54 Rythme
 
