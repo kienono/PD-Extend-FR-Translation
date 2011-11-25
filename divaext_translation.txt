@@ -221,8 +221,8 @@
 !x08881900 Contexte：%s
 !x0888197C Effet：%s
 
-!x08881AC8 Pour vｪrifier les donnｪes aditionelles
-!x08881ADC Le Memory Stick doit ｭtre insｪrｪ.
+!x08881AC8 Pour vｪrifier les donnｪes additionelles,
+!x08881ADC le Memory Stick doit ｭtre insｪrｪ.
 !x08881AF0 Ne retirer pas le Memory Stick!
 
 !x08881ED4 Liste des donnｪes manquantes
@@ -233,12 +233,12 @@
 
 # copy edit data message
 
-!x08882638 vous pouvez modifier les donnｪes duplicｪes
-!x0888264C dans 『初音ミク -Project DIVA- extend』.
-!x08882660 Modifier les donnｪes duplicｪes?
+!x08882638 Vous pouvez dupliquer les donnｪes EDIT
+!x0888264C de 『初音ミク -Project DIVA- extend』.
+!x08882660 Dupliquer les donnｪes EDIT?
 
-!x08882BA8 Je charge les donnｪes d'EDIT.
-!x08882BBC Choisissez un emplacement SVP.
+!x08882BA8 Donnｪes d'EDIT chargｪes.
+!x08882BBC Veuillez choisir un emplacement cible.
 
 !x08882FB0 Jouer un EDIT avec une musique in-game.
 !x08882FBC Jouer un EDIT avec une musique MP3.
@@ -261,61 +261,61 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 !x08887854 Faites des modifs au BPM SVP.
 !x088887BC Minutes
 !x088887D4 Secondes
-#%1d分 %02d秒 %003d
-!x088890B8 1小節目のBPM %3d
-!x088890DC 1拍 %1.3f秒
+#%1dminutes %02dsecondes %003d
+!x088890B8 BPM de la 1ｫre mesure %3d
+!x088890DC 1 temps %1.3fsecondes
 
 !x0889378C BPM est une unitｪ qui reprｪsente le tempo du morceau.
-!x088937A0 1分間の間に60回拍を刻むなら60BPM。
-!x088937B4 120回なら120BPMとなり、テンポが速くなります。
-!x088937C8 Vous pouvez modifier le nombre de BPM avec gauche et droite.
-!x088937DC □ボタンで楽曲、△ボタンでメトロノームを鳴らし、
-!x088937F0 Ajuster le BPM correspondant au rythme de la musique.
-!x08893804 また、『BPM計測』を使うことで楽曲に合わせて
-!x08893818 リズムを取り、 BPMを計測することもできます。
+!x088937A0 Avec un rythme marquｪ 60 fois durant 1 minute: 60BPM.
+!x088937B4 Marquｪ 120 fois, le BPM est ｬ 120 et le tempo est plus rapide.
+!x088937C8 Vous pouvez changer le BPM avec gauche et droite.
+!x088937DC Jouez la chanson avec □, lancez le mｪtronome avec le △
+!x088937F0 et ajustez le BPM correspondant au rythme de la musique.
+!x08893804 Sinon, utilisez l'option "Calcul BPM" pour calculer le BPM
+!x08893818 en fonction du rythme que vous marquez durant la chanson.
 
 !x08893DBC Sｪlectionnez le module A.
 !x08893E1C Sｪlectionnez le module B.
 
 !x08896A08 Ajouter mouvement
-!x08896C00 Rｪglez le mouvement ｬ ｭtre utilisｪes dans l'EDIT.
-!x088976DC Choisissez un maximum de 30 mouvements ｬ utiliser.
-!x088977B4 Choisissez un maximum de 30 mouvements ｬ utiliser.
+!x08896C00 Choisissez les mouvements ｬ utiliser dans l'EDIT.
+!x088976DC Jusqu'ｬ 30 mouvements peuvent ｭtre utilisｪs.
+!x088977B4 Jusqu'ｬ 30 mouvements peuvent ｭtre utilisｪs.
 
-!x088995C0 Ajouter objet
-!x0889978C Configurer les ｪlｪments ｬ utiliser dans l'EDIT.
-!x08899894 Configurer les ｪlｪments ｬ utiliser dans l'EDIT.
+!x088995C0 Ajouter accessoires
+!x0889978C Configurer les accessoires ｬ utiliser dans l'EDIT.
+!x08899894 Configurer les accessoires ｬ utiliser dans l'EDIT.
 
-!x0889BAE4 Ajouter fond
+!x0889BAE4 Ajouter fonds
 !x0889BC28 Rｪglez le fond ｬ ｭtre utilisｪ dans l'EDIT.
 !x0889BD28 Rｪglez le fond ｬ ｭtre utilisｪ dans l'EDIT.
-!x0889C42C Choisissez jusqu'ｬ 20 fond ｬ utiliser.
-!x0889CF78 Choisissez jusqu'ｬ 20 fond ｬ utiliser.
+!x0889C42C Jusqu'ｬ 20 fonds peuvent ｭtre utilisｪs.
+!x0889CF78 Jusqu'ｬ 20 fonds peuvent ｭtre utilisｪs.
 
-!x0889D8CC Ajouter effet
+!x0889D8CC Ajouter effets
 !x0889D9F8 Rｪglez les effets ｬ utiliser dans l'EDIT.
 !x0889DAEC Rｪglez les effets ｬ utiliser dans l'EDIT.
 
-!x0889E84C 【プリセット%d】
-!x0889F414 小節
-!x0889F784 Supprimer l'ｪlｪment selectionne?
-!x0889FD8C Importer des donnｪes
-!x0889FDB4 via les options d'imports
-!x0889FDC8 SVP
+!x0889E84C 【Prｪrｪglage %d】
+!x0889F414 Mesure
+!x0889F784 Supprimer l'ｪlｪment selectionnｪ?
+!x0889FD8C Veuillez importer les donnｪes
+!x0889FDB4 via l'ｪcran Options.
+!x0889FDC8 
 
-!x088A0344 楽曲の開始小節から終了小節まで、
-!x088A0358 2/4は1拍目と2拍目、3/4と4/4は1拍目と3拍目に
-!x088A036C 自動でターゲットが配置されます。
-!x088A0380 簡易配置を行うと、既存のターゲットデータは
-!x088A0394 全て削除されてしまいますが、よろしいですか？
-!x088A03BC ※簡易配置はエディットTOPへ戻るときに反映されます。
-!x088A0638 エディット終了確認
-!x088A06CC ホームに移動します。
-!x088A06F8 セーブされていないエディットの内容は
-!x088A0AB4 セーブされていないエディットの内容は
-!x088A0724 すべて消えてしまいますがよろしいですか？
-!x088A0AE0 すべて消えてしまいますがよろしいですか？
-!x088A0A88 モード選択に移動します。
+!x088A0344 Ajout automatique de cibles aux 1er et 2nd temps
+!x088A0358 de chaque mesure pour les chansons en 2/4 et aux
+!x088A036C 1er et 3ｫme temps pour celles en 3/4 et 4/4.
+!x088A0380 En utilisant le placement auto de cibles, les
+!x088A0394 cibles existantes seront effacｪes. Continuer?
+!x088A03BC ※Rｪsultat visible aprｫs un retour ｬ l'Edit TOP.
+!x088A0638 Confirmation de fin d'U+00E9dition
+!x088A06CC Retourner au menu.
+!x088A06F8 Les donnU+00E9es non enregistrU+00E9es seront
+!x088A0AB4 Les donnU+00E9es non enregistrU+00E9es seront
+!x088A0724 toutes perdues. Continuer?
+!x088A0AE0 toutes perdues. Continuer?
+!x088A0A88 Retourner au choix des modes.
 
 ### EDIT MODE (3rd block)
 
@@ -383,10 +383,10 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 0x08C36CEC Editer et jouer
 0x08C36CF4 Editer et regarder
 
-0x08C36D04 BPM・拍子設定
-0x08C36D10 BPM・拍子設定
-0x08C36D30 BPM・拍子設定
-0x08C36D5C BPM・拍子設定
+0x08C36D04 Paramｫtres BPM・Tempo
+0x08C36D10 Paramｫtres BPM・Tempo
+0x08C36D30 Paramｫtres BPM・Tempo
+0x08C36D5C Paramｫtres BPM・Tempo
 
 !x0887C0B8 Choix module
 0x08C36D1C Choix module
@@ -450,8 +450,8 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 0x08C36E24 Tonalitｪ des touches
 0x08C36E2C Tonalitｪ des touches
 
-!x0886F7F0 ターゲット簡易配置
-0x08C36E38 ターゲット簡易配置
+!x0886F7F0 Placement auto des cibles
+0x08C36E38 Placement auto des cibles
 
 0x08C36E40 Paramｫtre du temps de lecture
 
