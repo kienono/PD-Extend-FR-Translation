@@ -1,0 +1,2349 @@
+# Data import menu entries
+
+!x0881562C Rhythm Game PV
+!x08815640 Modules
+!x08815654 Themes de Chambre
+!x08815668 Objets de Chambre (Sol)
+!x0881567C Objets de Chambre (Etagere)
+!x08815690 Objets de Chambre (Mur)
+!x088156A4 Edit Music and Music Data
+!x088156B8 Edit Motion
+!x088156CC Edit Background
+!x088156E0 Edit Item
+!x088156F4 Edit Effect
+
+# Data import menu descriptions
+
+!x0881590C Voulez-vous importer les donnｪes additionelles
+!x08815920 de cette categorie comme EXTRA?
+
+!x08815B10 Importation des donnｪes terminｪe!
+!x08815B24 Afficher la liste de l'import.
+
+!x08815C68 Liste des donnｪes importｪes
+!x08815EB8 Impossible de lire les donnｪes additionelles.
+!x08816044 Aimeriez-vous finir l'importation de donnｪes et revenir ｬ l'ｪcran d'accueil?
+!x088162F0 Accｫs au Memory Stick pour
+!x08816304 verifier les donnｪes additionelles.
+!x08816318 Ne retirez pas le Memory Stick!
+
+# Vocaloids
+
+!x08823AA8 Hatsune Miku
+!x08823AB4 Kagamine Rin
+!x08823AC0 Kagamine Len
+!x08823ACC Megurine Luka
+!x08823AD8 Kaito
+!x08823AE4 Meiko
+!x08823AF0 Akita Neru
+!x08823AFC Yowane Haku
+!x08823B08 Sakine Meiko
+
+# Vocaloid rooms
+
+!x08823B2C Chambre de Miku
+!x08823B38 Chambre de Rin
+!x08823B44 Chambre de Len
+!x08823B50 Chambre de Luka
+!x08823B5C Chambre de Kaito
+!x08823B68 Chambre de Meiko
+!x08823B74 Chambre de Neru
+!x08823B80 Chambre de Haku
+!x08823B8C Chambre de S. Meiko
+
+# Helper items
+
+!x08823CB0 【HELP】Jeu Assistｪ
+!x08823CBC 【HELP】Combo protｪgｪ
+!x08823CC8 【HELP】Rｪcupｪration
+!x08823CD4 【CHALLENGE】COOL&FINE
+!x08823CE0 【CHALLENGE】Survie
+
+# Shop messages
+
+!x08838D38 Quitter la Boutique?
+!x088390AC De nouveaux objets
+!x088390D0 sont dispo ｬ l'achat.
+!x08839CAC Pas assez de Points DIVA.
+
+!x08839DD0 Voulez-vous l'acheter?
+!x08839DD8 ○:OUI　×:NON
+!x08839EEC Quantitｪ Max Atteinte.
+!x0883A1B8 Quantitｪ 0 / 0
+!x0883A274 Quantitｪ %d / %d
+!x0883A2A0 Quantitｪ - / -
+
+# Shop menu
+
+!x088392C8 Catｪgories
+!x088392EC Modules
+!x08839310 Chambres
+!x08839334 Objets de Chambre
+!x08839358 Objets-Aide
+
+# Autosave message (credits)
+
+!x08845B50 Ce jeu supporte la sauvegarde automatique.
+!x08845B64 Ne retirez pas le Memory Stick ou n'ｪteignez pas 
+!x08845B78 la PSP durant la sauvegarde.  Merci CodeStation
+!x08845B8C Project Diva Extend Patch Francais 24/11/11
+
+### EDIT MODE ###
+
+!x08847268 Personnage
+!x0884A8F0 Personnage
+!x0884B1C8 Personnage
+!x0884BDC8 Personnage
+!x0884C2F0 Personnage
+!x0884C8C0 Personnage
+!x0884CD04 Personnage
+!x0884D184 Personnage
+!x0884D5C8 Personnage
+!x0884D9C0 Personnage
+!x0884E1F8 Personnage
+!x0884ED90 Personnage
+!x0884F510 Personnage
+!x0884F628 Personnage
+!x0884FBB4 Personnage
+!x0884FD1C Personnage
+!x08852F70 Personnage
+!x08854900 Personnage
+!x08856E74 Personnage
+!x08859380 Personnage
+!x0885AA60 Personnage
+!x0885AF84 Personnage
+!x0885B650 Personnage
+!x0885C138 Personnage
+!x0885D0B8 Personnage
+!x0885D46C Personnage
+!x0885DD18 Personnage
+!x0885E9F8 Personnage
+
+!x08847CE4 mesure %3d temps %1.1f ～ mesure %3d temps %1.1f (Total：%0.1f temps)
+!x08847CFC mesure %3d temps %1.1f ～ mesure %3d temps %1.1f (Total： %0.1f temps)
+!x08847D10 mesure %3d temps %1.1f ～ mesure %3d temps %1.1f (Total：  %0.1f temps)
+!x08847D14 mesure %3d temps %1.1f ～ mesure %3d temps %1.1f (Total：   %0.1f temps)
+!x08849080 Cotｪ　[%3.3f]
+!x088490A8 Profondeur [%3.3f]
+!x088490E0 Hauteur　[%3.3f]
+!x088490F0 Angle [%3.3f]
+!x08849128 Vitesse[%3d %%]
+!x0884A8DC Edit TOP
+!x0884B1B4 Edit TOP
+!x0884BDB4 Edit TOP
+!x0884C2DC Edit TOP
+!x0884C8AC Edit TOP
+!x0884CCF0 Edit TOP
+!x0884D170 Edit TOP
+!x0884D5B4 Edit TOP
+!x0884D9AC Edit TOP
+!x0884E1E4 Edit TOP
+!x0885AF70 Edit TOP
+!x0885D458 Edit TOP
+!x0884B364 Mode Edit
+!x0884BFA4 Non
+!x0886022C Non
+!x0884CAB4 Afficher
+!x0884D778 Afficher
+!x0884DBB4 Afficher
+!x0884CACC Ne pas afficher
+!x0884D790 Ne pas afficher
+!x0884DBCC Ne pas afficher
+!x0884D36C Oui
+!x0885D214 Oui
+!x0884D384 Non
+!x0885D22C Non
+!x0884D398 Yeux fermｪs
+!x08852B4C Position
+!x088569C8 Position
+!x08858EF4 Position
+!x08852B54 Direction
+!x088569D0 Direction
+!x08858EFC Direction
+!x0886008C Personnalisｪ
+
+### EDIT MODE (2nd block) ###
+
+!x0887E260 Mode Sｪlection
+!x0887E2B4 Commencer de zｪro
+!x0887E2C8 Continuer un Edit
+!x0887E2DC Convertir donnｪes PD 2nd 
+!x0887E2F0 Convertir donnｪes PD 1st
+!x0887E318 Vｪrifier donnｪes suppl.
+!x088819F4 Valider donnｪes suppl.
+!x0887E32C Retour au menu
+
+!x0887E8D4 Terminer le mode Edit
+!x0887E900 et retourner au menu?
+!x0887E92C Etes-vous sur?
+# CHECK THIS ONE
+!x0889F798 Etes-vous sur?
+
+!x0887EB5C Convertir les donnｪes Edit de "Project Diva 2nd"
+!x0887EBC8 Conversion des donnｪes
+!x0887F268 Conversion des donnｪes
+!x0887FD38 Conversion des donnｪes
+!x08880590 Conversion des donnｪes
+
+# convert from PD 2nd
+
+!x0887EC54 En convertissant les donnｪes EDIT
+!x0887EC68 de 『初音ミク -Project DIVA- 2nd』,
+!x0887EC7C Vous pourrez les modifier
+!x0887EC90 dans 『初音ミク -Project DIVA- extend』.
+!x0887ECA4 Convertir les donnｪes du 2nd?
+
+# convert from PD 1st
+
+!x0887FCC8 Convertir les donnｪes Edit de "Project Diva"
+!x0887FDC4 En convertissant les donnｪes EDIT
+!x0887FDD8 de 『初音ミク -Project DIVA-』,
+!x0887FDEC Vous pourrez les modifier
+!x0887FE00 dans 『初音ミク -Project DIVA- extend』.
+!x0887FE14 Convertir les donnｪes du 1st?
+
+# other
+
+!x0887F350 Conversion des donnｪes en cours……
+!x08880678 Conversion des donnｪes en cours……
+!x0887F514 Impossible de convertir les donnｪes!
+!x0887F518 Veuillez vous assurer que l'espace 
+!x0887F520 disponible soit supｪrieur ｬ 0.
+!x0887F528 
+!x0887F6FC Conversion des donnｪes EDIT terminｪes!
+!x08880824 Conversion des donnｪes EDIT terminｪes!
+!x0887F710 Voulez-vous enregistrer les donnｪes converties?
+!x08880838 Voulez-vous enregistrer les donnｪes converties?
+
+!x08881774 Module：%s
+!x08881808 Mouvement：%s
+!x08881884 Objet　：%s
+!x08881900 Contexte：%s
+!x0888197C Effet：%s
+
+!x08881AC8 Pour vｪrifier les donnｪes aditionelles
+!x08881ADC Le Memory Stick doit ｭtre insｪrｪ.
+!x08881AF0 Ne retirer pas le Memory Stick!
+
+!x08881ED4 Liste des donnｪes manquantes
+!x088823A8 Tout le contenu additionel nｪcessaire
+!x088823B0 ｬ l'ｪdition des donnｪes EDIT est rｪuni.
+!x0888250C Duplication des donnｪes EDIT.
+!x08882520 Vｪrifier la duplication.
+
+# copy edit data message
+
+!x08882638 vous pouvez modifier les donnｪes duplicｪes
+!x0888264C dans 『初音ミク -Project DIVA- extend』.
+!x08882660 Modifier les donnｪes duplicｪes?
+
+!x08882BA8 Je charge les donnｪes d'EDIT.
+!x08882BBC Choisissez un emplacement SVP.
+
+!x08882FB0 Jouer un EDIT avec une musique in-game.
+!x08882FBC Jouer un EDIT avec une musique MP3.
+!x08882FC8 Jouer un EDIT avec une musique aditionnelle.
+
+!x08882FE4 Regarder un EDIT avec une musique in-game.
+!x08882FF0 Regarder un EDIT avec une musique MP3.
+!x08882FFC Regarder un EDIT avec une musique aditionnelle.
+
+^x08882FA8 Crｪer un EDIT avec une musique in-game.
+^x08882FDC Crｪer un EDIT avec une musique in-game.
+$x08883008 Crｪer un EDIT avec une musique in-game.
+!x08883014 Crｪer un EDIT avec une musique MP3.
+!x08883020 Crｪer un EDIT avec une musique aditionnelle.
+
+!x08887834 Changer le BPM
+!x08887AD4 Changer le BPM
+!x08887848 Ne pas changer le BPM
+!x08887AE8 Ne pas changer le BPM
+!x08887854 Faites des modifs au BPM SVP.
+!x088887BC Minutes
+!x088887D4 Secondes
+#%1d分 %02d秒 %003d
+!x088890B8 1小節目のBPM %3d
+!x088890DC 1拍 %1.3f秒
+
+!x0889378C BPM est une unitｪ qui reprｪsente le tempo du morceau.
+!x088937A0 1分間の間に60回拍を刻むなら60BPM。
+!x088937B4 120回なら120BPMとなり、テンポが速くなります。
+!x088937C8 Vous pouvez modifier le nombre de BPM avec gauche et droite.
+!x088937DC □ボタンで楽曲、△ボタンでメトロノームを鳴らし、
+!x088937F0 Ajuster le BPM correspondant au rythme de la musique.
+!x08893804 また、『BPM計測』を使うことで楽曲に合わせて
+!x08893818 リズムを取り、 BPMを計測することもできます。
+
+!x08893DBC Sｪlectionnez le module A.
+!x08893E1C Sｪlectionnez le module B.
+
+!x08896A08 Ajouter mouvement
+!x08896C00 Rｪglez le mouvement ｬ ｭtre utilisｪes dans l'EDIT.
+!x088976DC Choisissez un maximum de 30 mouvements ｬ utiliser.
+!x088977B4 Choisissez un maximum de 30 mouvements ｬ utiliser.
+
+!x088995C0 Ajouter objet
+!x0889978C Configurer les ｪlｪments ｬ utiliser dans l'EDIT.
+!x08899894 Configurer les ｪlｪments ｬ utiliser dans l'EDIT.
+
+!x0889BAE4 Ajouter fond
+!x0889BC28 Rｪglez le fond ｬ ｭtre utilisｪ dans l'EDIT.
+!x0889BD28 Rｪglez le fond ｬ ｭtre utilisｪ dans l'EDIT.
+!x0889C42C Choisissez jusqu'ｬ 20 fond ｬ utiliser.
+!x0889CF78 Choisissez jusqu'ｬ 20 fond ｬ utiliser.
+
+!x0889D8CC Ajouter effet
+!x0889D9F8 Rｪglez les effets ｬ utiliser dans l'EDIT.
+!x0889DAEC Rｪglez les effets ｬ utiliser dans l'EDIT.
+
+!x0889E84C 【プリセット%d】
+!x0889F414 小節
+!x0889F784 Supprimer l'ｪlｪment selectionne?
+!x0889FD8C Importer des donnｪes
+!x0889FDB4 via les options d'imports
+!x0889FDC8 SVP
+
+!x088A0344 楽曲の開始小節から終了小節まで、
+!x088A0358 2/4は1拍目と2拍目、3/4と4/4は1拍目と3拍目に
+!x088A036C 自動でターゲットが配置されます。
+!x088A0380 簡易配置を行うと、既存のターゲットデータは
+!x088A0394 全て削除されてしまいますが、よろしいですか？
+!x088A03BC ※簡易配置はエディットTOPへ戻るときに反映されます。
+!x088A0638 エディット終了確認
+!x088A06CC ホームに移動します。
+!x088A06F8 セーブされていないエディットの内容は
+!x088A0AB4 セーブされていないエディットの内容は
+!x088A0724 すべて消えてしまいますがよろしいですか？
+!x088A0AE0 すべて消えてしまいますがよろしいですか？
+!x088A0A88 モード選択に移動します。
+
+### EDIT MODE (3rd block)
+
+!x0886F670 Systｫme
+!x08878CF0 Systｫme
+!x0887A80C Systｫme
+!x0887ABB0 Systｫme
+!x0887B960 Systｫme
+!x0887BE3C Systｫme
+!x0887BF78 Systｫme
+!x0887C09C Systｫme
+!x0887C404 Systｫme
+!x0887DF38 Systｫme
+!x088A0624 Systｫme
+!x088A09E0 Systｫme
+0x08C36CD0 Systｫme
+0x08C36CD8 Systｫme
+0x08C36D14 Systｫme
+0x08C36D38 Systｫme
+0x08C36D74 Systｫme
+0x08C36DA4 Systｫme
+0x08C36DD4 Systｫme
+0x08C36E04 Systｫme
+0x08C36E34 Systｫme
+0x08C36E3C Systｫme
+
+!x0886F79C Prｪfｪrences
+0x08C36CD4 Prｪfｪrences
+0x08C36CDC Prｪfｪrences
+0x08C36CFC Prｪfｪrences
+0x08C36D18 Prｪfｪrences
+0x08C36D3C Prｪfｪrences
+0x08C36D44 Prｪfｪrences
+0x08C36D78 Prｪfｪrences
+0x08C36D80 Prｪfｪrences
+0x08C36DA8 Prｪfｪrences
+0x08C36DB0 Prｪfｪrences
+0x08C36DD8 Prｪfｪrences
+0x08C36DE0 Prｪfｪrences
+0x08C36E08 Prｪfｪrences
+0x08C36E10 Prｪfｪrences
+
+!x08866840 Choix chanson
+0x08C36CE0 Choix chanson
+0x08C36CE8 Choix chanson
+0x08C36CF0 Choix chanson
+0x08C36CF8 Choix chanson
+0x08C36D00 Choix chanson
+0x08C36D0C Choix chanson
+0x08C36D24 Choix chanson
+0x08C36D2C Choix chanson
+0x08C36D50 Choix chanson
+
+!x0887E24C Mode Edit 
+!x0887EBB4 Mode Edit
+!x0887F254 Mode Edit
+!x0887FD24 Mode Edit
+!x0888057C Mode Edit
+0x08C36CE4 Mode Edit
+0x08C36D08 Mode Edit
+0x08C36D20 Mode Edit
+0x08C36E5C Mode Edit
+0x08C36E64 Mode Edit
+
+0x08C36CEC Editer et jouer
+0x08C36CF4 Editer et regarder
+
+0x08C36D04 BPM・拍子設定
+0x08C36D10 BPM・拍子設定
+0x08C36D30 BPM・拍子設定
+0x08C36D5C BPM・拍子設定
+
+!x0887C0B8 Choix module
+0x08C36D1C Choix module
+0x08C36D28 Choix module
+0x08C36D34 Choix module
+0x08C36D54 Choix module
+0x08C36D60 Choix module
+0x08C36D68 Choix module
+0x08C36D8C Choix module
+
+!x0886687C Choix mouvement
+0x08C36D40 Choix mouvement
+0x08C36D48 Choix mouvement
+0x08C36D58 Choix mouvement
+0x08C36D64 Choix mouvement
+0x08C36D6C Choix mouvement
+0x08C36D90 Choix mouvement
+0x08C36D98 Choix mouvement
+0x08C36DBC Choix mouvement
+
+0x08C36D4C Ajouter/Mofifier
+0x08C36D70 Ajouter/Mofifier
+0x08C36D88 Ajouter/Mofifier
+0x08C36DA0 Ajouter/Mofifier
+0x08C36DB8 Ajouter/Mofifier
+0x08C36DD0 Ajouter/Mofifier
+0x08C36DE8 Ajouter/Mofifier
+0x08C36E00 Ajouter/Mofifier
+0x08C36E18 Ajouter/Mofifier
+0x08C36E30 Ajouter/Mofifier
+
+!x08866890 Choix objets
+0x08C36D7C Choix objets
+0x08C36D84 Choix objets
+0x08C36D94 Choix objets
+0x08C36D9C Choix objets
+0x08C36DC0 Choix objets
+0x08C36DC8 Choix objets
+0x08C36DEC Choix objets
+
+!x088668A4 Choix fond
+0x08C36DAC Choix fond
+0x08C36DB4 Choix fond
+0x08C36DC4 Choix fond
+0x08C36DCC Choix fond
+0x08C36DF0 Choix fond
+0x08C36DF8 Choix fond
+0x08C36E1C Choix fond
+
+!x088668B8 Choix effets
+0x08C36DDC Choix effets
+0x08C36DE4 Choix effets
+0x08C36DF4 Choix effets
+0x08C36DFC Choix effets
+0x08C36E20 Choix effets
+0x08C36E28 Choix effets
+
+!x088668CC Tonalitｪ des touches
+0x08C36E0C Tonalitｪ des touches
+0x08C36E14 Tonalitｪ des touches
+0x08C36E24 Tonalitｪ des touches
+0x08C36E2C Tonalitｪ des touches
+
+!x0886F7F0 ターゲット簡易配置
+0x08C36E38 ターゲット簡易配置
+
+0x08C36E40 Paramｫtre du temps de lecture
+
+!x08873054 Edit TOP
+!x08873F50 Edit TOP
+0x08C36E44 Edit TOP
+0x08C36E50 Edit TOP
+
+!x0887B9F0 Cibles
+0x08C36E48 Cibles
+
+0x08C36E4C リアルタイム入力
+0x08C36E58 リアルタイム入力
+
+0x08C36E54 Rythme
+
+!x0887E304 Copie donnｪes Edit
+0x08C36E60 Copie donnｪes Edit
+0x08C36E68 Copie donnｪes Edit
+
+0x08C36E6C Vｪrif. duplication
+
+### EDIT MODE (4th block) ###
+
+!x08863580 %2d分%d%d秒%d%d%d
+!x08864014 読込容量:%5d(%d)
+!x08864050 読込容量:%5d
+!x0886408C 配置容量:%5d(%d)
+!x088640C8 配置容量:%5d
+!x08864824 曲に合わせてターゲットを入力することができます。
+!x08865F70 曲に合わせてマーカーを入力することができます。
+!x08866854 モジュールＡ選択
+!x08866868 モジュールＢ選択
+!x088668D4 使用楽曲の変更をすることができます。
+!x08866AE0 使用楽曲の変更をすることができます。
+!x088668E0 エディットで使用するモジュールＡの変更をすることができます。
+!x088668EC エディットで使用するモジュールＢの変更をすることができます。
+!x088668F8 エディットで使用するモーションの変更をすることができます。
+!x08866904 エディットで使用するアイテムの変更をすることができます。
+!x08866910 エディットで使用する背景の変更をすることができます。
+!x0886691C エディットで使用するエフェクトの変更をすることができます。
+!x08866928 リズムゲーム中に再生するボタン音を変更することができます。
+!x088680D0 拍子 %12d/4
+!x08868650 拍子 %12d/4
+!x088939D4 拍子 %12d/4
+!x08868290 BPM計測
+!x08868404 BPM計測
+!x08868A10 BPM計測
+!x088845F8 BPM計測
+!x08893AA0 BPM計測
+!x088682B4 BPMについて
+!x088682C8 決定
+
+!x088682F4 楽曲のテンポを設定することができます。
+!x08868414 楽曲のテンポを設定することができます。
+!x08868420 1小節の拍数を設定することができます。
+!x08868428 BPMを手動で計測することができます。
+!x08868438 BPMに関しての説明を表示することができます。
+!x08893A40 BPMに関しての説明を表示することができます。
+!x08868440 現在の設定で楽曲のテンポと拍数を決定します。
+
+!x08868A34 □ボタンで楽曲を再生することができます。
+!x08868A48 再生された楽曲に合わせて△ボタン押し、
+!x08868A5C 30秒間リズムを取ることでBPMの平均値が
+!x08868A70 表示されます。
+
+!x0886AACC エクストラ
+!x0886B690 エクストラ
+!x0886C04C エクストラ
+!x0886CD30 エクストラ
+!x08895B04 エクストラ
+
+!x0886B1A8 デフォルト
+!x0886C51C デフォルト
+!x0889555C デフォルト
+!x088972D0 デフォルト
+!x0889C9D8 デフォルト
+
+!x0886B314 なし
+!x0886C670 なし
+!x08893F70 なし
+!x08894088 なし
+!x08895600 なし
+!x0889746C なし
+!x0889CB74 なし
+
+!x0886B5B0 追加するアイテムを最大10個まで選択することができます。
+!x0889A068 追加するアイテムを最大10個まで選択することができます。
+!x0889B11C 追加するアイテムを最大10個まで選択することができます。
+!x0886C904 追加するエフェクトを最大10個まで選択することができます。
+!x0889DFE8 追加するエフェクトを最大10個まで選択することができます。
+!x0886D320 ボタン音：なし
+!x0886D364 素材選択を確定する
+!x088941B8 素材選択を確定する
+!x08896AA8 素材選択を確定する
+!x08899644 素材選択を確定する
+!x0889BB58 素材選択を確定する
+!x0889D924 素材選択を確定する
+!x0886D3B8 リズムゲーム中に再生するボタン音を選択することができます。
+!x0886D46C リズムゲーム中に再生するボタン音を選択することができます。
+!x0886D89C リズムゲーム中に再生するボタン音を選択することができます。
+!x0886D940 リズムゲーム中に再生するボタン音を選択することができます。
+!x0886F00C 追加データを
+!x0886F020 ロードできませんでした。
+!x0889FDA0 ロードできませんでした。
+!x0886F6DC エディットデータのセーブ・ロード・削除をすることができます。
+!x0886FA74 エディットデータのセーブ・ロード・削除をすることができます。
+!x0886F6E8 モジュールや背景など、読み込む素材を変更することができます。
+!x0886FA80 モジュールや背景など、読み込む素材を変更することができます。
+!x0886F6F4 各キャラクターの身長を設定することができます。
+!x0886FA8C 各キャラクターの身長を設定することができます。
+!x0886F700 ターゲットの簡易配置をすることができます。
+!x0886FA98 ターゲットの簡易配置をすることができます。
+!x0886F70C 歌詞の入力されている拍に自動で口パクを設定することができます。
+!x0886FAA4 歌詞の入力されている拍に自動で口パクを設定することができます。
+!x0886F718 各種配置コマンドデータを削除できます。
+!x0886FAB0 各種配置コマンドデータを削除できます。
+!x0886F728 エディットのTOPへ戻ります。
+!x0886FABC エディットのTOPへ戻ります。
+!x0886F734 現在のエディットを終了してモード選択へ戻ります。
+!x0886FAC8 現在のエディットを終了してモード選択へ戻ります。
+!x0886F740 エディットを終了してホームへ戻ります。
+!x0886FAD4 エディットを終了してホームへ戻ります。
+!x0887E1B0 エディットを終了してホームへ戻ります。
+!x0886F754 楽曲が流れ出すタイミングを設定することができます。
+!x0886FAE8 楽曲が流れ出すタイミングを設定することができます。
+!x0886F788 データ
+!x08878D04 データ
+!x0886F7C8 楽曲開始時間設定
+!x0886F7DC スケール設定
+!x0887A820 スケール設定
+!x0886F804 自動口パク入力
+!x0887ABC4 自動口パク入力
+!x0886F818 コマンドの削除
+!x0886F82C エディットTOPへ
+!x0886F840 モード選択へ
+!x0886F854 エディット終了
+!x08871BA4 最初からテストプレイ
+!x08871BFC 最初からテストプレイ
+!x08871C9C 1小節前からテストプレイ
+!x08871BA8 最初から鑑賞
+!x08871C00 最初から鑑賞
+!x08871D00 1小節前から鑑賞
+!x08871BB0 キャンセル
+!x08871C04 キャンセル
+!x08872814 『エディットモード』はオートセーブ機能に対応していません。
+!x0887281C 『システム』画面の『データ』からセーブを行ってください。
+!x08873958 編集モード
+!x08873B90 ＢＰＭと拍数などの編集をすることができます。
+!x08873BCC ターゲットの入力や、表示位置などの編集をすることができます。
+!x08873C08 モーションや表情などキャラクター関連の編集をすることができます。
+!x08873C44 背景やカメラなどステージ関連の編集をすることができます。
+!x08873C80 楽曲の終了小節の位置を設定することができます。
+!x088741C4 選択された小節のデータを
+!x08874200 削除しますがよろしいですか？
+!x08874234 削除・初期化しますがよろしいですか？
+!x088745AC ターゲット：コピー中です。(TOPでは長押しをコピーできません)
+!x08874638 キャラ：コピー中です。(TOPでは配置・目線をコピーできません)
+!x088745FC ステージ：コピー中です。(TOPではカメラ・歌詞をコピーできません)
+!x08874674 小節や拍データのコピー、削除をすることができます。
+!x08875278 プレビューを確認することができます。
+!x0887566C %3d小節
+!x08876144 楽曲の再生情報を設定しています。
+!x0887632C 楽曲の再生情報を設定しました。
+!x08876334 素材データのロードを開始します。
+!x088766B0 楽曲をロードできませんでした。
+!x088766B8 楽曲の途中再生情報設定に失敗しました。
+!x08876A1C 楽曲の途中再生情報設定に失敗しました。
+!x08876A14 記録メディアが入っていません。
+!x088776EC エディットデータに設定されている
+!x08877730 エディットデータに設定されている
+!x088777E0 エディットデータに設定されている
+!x08878278 エディットデータに設定されている
+!x088788DC エディットデータに設定されている
+!x08878AD8 エディットデータに設定されている
+!x08879E00 エディットデータに設定されている
+!x0887F624 エディットデータに設定されている
+!x088776F0 追加データを読み込めなかったので、
+!x0887827C 追加データを読み込めなかったので、
+!x08878ADC 追加データを読み込めなかったので、
+!x08879E04 追加データを読み込めなかったので、
+!x0887F628 追加データを読み込めなかったので、
+!x088776F4 置き換えを行いました。
+!x08878280 置き換えを行いました。
+!x08878AE0 置き換えを行いました。
+!x08879E08 置き換えを行いました。
+!x0887F62C 置き換えを行いました。
+!x088776F8 セーブすると現在の状態で
+!x08878AE4 セーブすると現在の状態で
+!x08879E0C セーブすると現在の状態で
+!x0887F630 セーブすると現在の状態で
+!x08877700 保存されますのでご注意ください。
+!x08878AEC 保存されますのでご注意ください。
+!x08879E14 保存されますのでご注意ください。
+!x0887F638 保存されますのでご注意ください。
+!x08877734 楽曲データを読み込めませんでした。
+!x088777E8 楽曲データを読み込めませんでした。
+!x08877740 エディットモード選択画面へ戻ります。
+!x08877814 エディットデータロード画面へ戻ります。
+!x08877864 システムメニューへ戻ります。
+!x08878284 不足している素材の確認は『モード選択』内、
+!x0887828C 『追加データ確認』から行ってください。
+!x088788E0 追加データを読み込めませんでした。
+!x088788E4 足りないデータについては『モード選択』の
+!x088788E8 『追加データ確認』で確認できます。
+!x088788F0 編集を開始するため、追加データの置き換えを
+!x088788B4 行いますがよろしいですか？
+!x08878C5C 作成したエディット内容をセーブします。
+!x08878C68 作成したエディットデータをロードします。
+!x08878C74 データを削除します。
+!x08878C80 楽曲のタイトルを入力することができます。
+!x08878C98 作成したエディットデータにタイトルをつけることができます。
+!x08878D54 セーブ
+!x08878D80 ロード
+!x08878DAC データの削除
+!x08878DD8 楽曲名
+!x08879100 楽曲名
+!x08878E04 エディット名
+!x088791A8 エディット名
+!x088791F8 ※エディット名は未入力です
+!x0887A74C キャラ固有の大きさを反映します。
+!x0887A75C キャラ固有の大きさを反映しません。
+#ON
+#OFF
+!x0887AB24 モジュールＡに対して口パクを設定します。
+!x0887AB30 モジュールＢに対して口パクを設定します。
+!x0887AB40 両方のモジュールに対して口パクを設定します。
+!x0887AB68 配置を実行するかの最終確認です。
+!x0887AB78 配置を実行しています。
+!x0887AC14 モジュールＡ
+!x0887C120 モジュールＡ
+!x0887D2A0 モジュールＡ
+!x08893D58 モジュールＡ
+!x0887AC40 モジュールＢ
+!x0887C14C モジュールＢ
+!x0887D2E8 モジュールＢ
+!x08893D68 モジュールＢ
+!x0887AC6C 両方
+!x0887C0F4 両方
+!x0887AF2C 歌詞の入力された拍に、
+!x0887AF58 口パクが自動で入力されます。
+!x0887AF84 入力済みの拍には自動入力されません。
+!x0887AFB0 配置容量が足りない場合は
+!x0887AFDC 途中で入力が止まります。
+!x0887B008 自動口パク入力を実行しますか？
+!x0887B254 自動口パクを入力しています。
+!x0887B3B0 自動口パク入力が完了しました。
+!x0887B81C 配置されているデータを全て削除します。
+!x0887B828 配置されているターゲットを全て削除します。
+!x0887B834 『キャラ』から削除するデータを選択します。
+!x0887B840 『ステージ』から削除するデータを選択します。
+!x0887B84C 配置されているマーカーを全て削除します。
+!x0887B858 ステージのデータを全て削除します。
+!x0887B864 カメラのデータを削除します。
+!x0887B870 背景のデータを削除します。
+!x0887B87C エフェクトのデータを削除します。
+!x0887B888 歌詞のデータを削除します。
+!x0887B894 両方のキャラデータを削除します。
+!x0887B8A0 モジュールＡのキャラデータを削除します。
+!x0887B8AC モジュールＢのキャラデータを削除します。
+
+0x08C36F74 キャラのデータを全て削除します。
+0x08C36F78 キャラ配置のデータを削除します。
+0x08C36F7C モーションのデータを削除します。
+0x08C36F80 アイテムのデータを削除します。
+0x08C36F84 表情のデータを削除します。
+0x08C36F88 頬染めのデータを削除します。
+0x08C36F8C 口パクのデータを削除します。
+0x08C36F90 目線のデータを削除します。
+0x08C36F94 目パチのデータを削除します。
+0x08C36F98 モデル表示のデータを削除します。
+0x08C36F9C 影表示のデータを削除します。
+
+!x0887B91C 削除を実行するかの最終確認です。
+!x0887B928 削除を実行しています。
+!x0887B974 コマンド削除
+!x0887BDD4 コマンド削除
+!x0887D240 コマンド削除
+!x0887D28C コマンド削除
+!x0887D2D4 コマンド削除
+!x0887DF4C コマンド削除
+!x0887B9C4 全て
+!x0887C264 全て
+!x0887D34C 全て
+!x0887BA1C キャラ
+!x0887BA48 ステージ
+!x0887C218 ステージ
+!x0887BA74 マーカー
+!x0887BE58 確認
+!x0887BF94 確認
+!x0887C420 確認
+!x0887DF60 確認
+!x0887BED8 削除したデータは元に戻せません
+!x0887C4A0 削除したデータは元に戻せません
+!x0887BF04 削除を実行しますか？
+!x0887C040 削除を実行しますか？
+!x0887C4CC 削除を実行しますか？
+!x0887E020 削除を実行しますか？
+!x0887C014 削除したデータは元に戻せません。
+!x0887DFF4 削除したデータは元に戻せません。
+!x0887C228 コマンド選択
+!x0887D268 コマンド選択
+!x0887D2B4 コマンド選択
+!x0887D2FC コマンド選択
+!x0887C290 カメラ
+!x0887C2BC 背景
+!x0887C2E8 エフェクト
+!x0887C314 歌詞
+!x0887C774 コマンドデータ削除中…
+!x0887D00C コマンドデータ削除が終了しました。
+!x0887D254 両方のモジュール
+!x0887D378 キャラ配置
+!x0887D3A4 モーション
+!x0887D3D0 アイテム
+!x0887D3FC 表情
+!x0887D428 頬染め
+!x0887D454 口パク
+!x0887D480 目線
+!x0887D4AC 目パチ
+!x0887D4D8 モデル表示
+!x0887D504 影表示
+!x0887E168 新規エディットデータを作成します。
+!x0887E174 エディットデータの編集ができます。
+!x0887E180 『-Project DIVA- 2nd』のエディットデータをコンバートできます。
+!x0887E18C 『-Project DIVA-』のエディットデータをコンバートできます。
+!x0887E19C エディットデータの複製ができます。
+!x0887E1A4 コマンド選択エディットデータで足りない追加データを確認できます。
+!x08881A34 コマンド選択エディットデータで足りない追加データを確認できます。
+
+# Rhythm Game default message
+
+!x088E0F4C Mode personnages par dｪfaut.
+!x088E0F58 Ce paramｫtre est dｪsactivｪ automatiquement
+!x088E0F64 quand vous lancerez une chanson.
+
+# Free play confirm messages
+
+!x088E0FF8 Jouer la chanson?
+!x088E100C Regarder le PV?
+
+# Rhythm Game menu
+
+!x088E1D38 Tutorial
+!x088E1D44 Jeu Libre
+!x088E1D50 Extras
+
+# High score placeholder
+
+!x088E2FFC High score -------
+!x088E3018 High score %07d
+
+# Main menu
+
+!x088E3CB0 Jouer
+!x088E3CBC Choix Perso.
+!x088E3CC8 Chambres DIVA
+!x088E3CD4 Boutique
+!x088E3CE0 Statistiques
+!x088E3CEC Mode Edit
+!x088E3CF8 Mode Ad Hoc
+!x088E3D04 Options
+!x088E3D10 Sauver
+!x088E3D1C Retour au Titre
+
+# Room entering messages
+
+!x088E5428 Aller ｬ la Chambre de Miku?
+!x088E5434 Aller ｬ la Chambre de Rin?
+!x088E5440 Aller ｬ la Chambre de Len?
+!x088E544C Aller ｬ la Chambre de Luka?
+!x088E5458 Aller ｬ la Chambre de Kaito?
+!x088E5464 Aller ｬ la Chambre de Meiko?
+!x088E5470 Aller ｬ la Chambre de Neru?
+!x088E5480 Aller ｬ la Chambre de Haku?
+!x088E5490 Aller ｬ la Chambre de S.Meiko?
+
+# Edit mode menu
+
+!x088E5A44 Crｪer un Edit
+!x088E5A50 Jouer un Edit
+!x088E5A5C Regarder un Edit
+
+# Edit mode menu confirm
+
+!x088E6060 Crｪer un Edit?
+!x088E6070 Jouer un Edit?
+!x088E6080 Regarder un Edit?
+
+# Options menu entries
+
+!x088E6620 Sauvegarde-Auto
+!x088E6668 Instal. donnｪes
+!x088E69F4 Import donnｪes additionelles
+!x088E6A04 前作データの引継ぎ
+
+!x088E6E88 Faire un import de donnｪes?
+!x088E6E98 Import des donnｪes de DIVA 2nd.
+!x088E7284 La save-auto est sur ON.
+
+# Installation data messages
+
+!x088E729C *Durant la sauvegarde, la LED
+!x088E72A8 du Memory Stick clignote.
+!x088E72B4 Veuillez ne pas ｪteindre la PSP,
+!x088E72C8 ni retirer la Memory Stick.
+!x088E72D8 
+
+!x088E738C Save-Auto
+!x088E73B8 Votre progression n'a pas ｪtｪ enregistrｪe.
+!x088E73C4 Save-auto mis sur OFF.
+
+!x088E73D0 Crｪer une sauvegarde depuis
+!x088E73E4 le menu "Sauver" avant de
+!x088E73F4 rｪgler la save-auto sur ON.
+
+!x088E77B8 Donnｪes d'installation
+!x088E7830 Donnｪes d'instal. non trouvｪes.
+!x088E77BC Les donnｪes d'instal. n'ont pas ｪtｪ trouvｪes,
+!x088E77C0 le jeu les chargera depuis l'UMD.
+!x088E77C8 Instal. donnｪes a ｪtｪ mis sur OFF.
+
+^x088E7824 Memory Stick non-dｪtｫctｪ!
+!x088E78A4 Memory Stick non-dｪtｫctｪ!
+!x088E7B28 Save-Auto
+!x088E7B68 Installation donnｪes
+!x088E88FC Save-Auto
+!x088E89A0 Installation donnｪes
+
+# Module menu extras
+
+!x088EB2F4 Extras
+
+# Main menu messages
+
+!x088F18D8 Les donnｪes importｪes
+!x088F18A8 n'ont pas pu ｭtre chargｪes.
+!x088F18E8 Utiliser les options 
+!x088F18F4 d'import pour importer.
+!x088F1964 Donnｪes additionelles
+!x088F1CA4 Titre acquis.
+
+# Unlock messages
+
+!x088FBF78 Une nouvelle chanson a ｪtｪ ajoutｪe.
+!x088FBF7C Le PV a ｪtｪ ajoutｪ ｬ la Galerie.
+!x088FBF80 Le mode HARD a ｪtｪ ajoutｪ.
+!x088FBF84 Le mode EXTREME a ｪtｪ ajoutｪ.
+!x088FBF88 Un nouveau perso a ｪtｪ ajoutｪ.
+!x088FBF8C Un nouveau module est dispo ｬ la Boutique.
+!x088FBF90 Une nouvelle Chambre est dispo ｬ la Boutique.
+!x088FBF94 Un Theme de Chambre est dispo ｬ la Boutique.
+!x088FBF98 Un Objet de Chambre est dispo ｬ la Boutique.
+
+# DLC load error messages
+
+!x0891F714 Les donnｪes additionelles
+!x0891F728 n'ont pas pu ｭtre chargｪes.
+
+!x0891F73C Le module utilisｪ a ｪtｪ
+!x0891F750 remplacｪ par l'original.
+
+!x0891F7FC Les donnｪes additionelles
+!x0891F810 n'ont pas pu ｭtre chargｪes.
+
+!x0891F824 La disposition par dｪfaut de
+!x0891F838 la Chambre a ｪtｪ restaurｪe.
+
+!x0891F8A0 Les donnｪes additionelles
+!x0891F8B4 n'ont pas pu ｭtre chargｪes.
+
+
+# DIVA room
+
+!x089214B4 Menu
+!x08921574 Themes de Chambre
+!x089275AC Themes de Chambre
+!x08921728 Objets de Chambre (Sol)
+!x08921734 Objets de Chambre (Etageres)
+!x08921740 Objets de Chambre (Mur)
+!x08921A30 Themes de Chambre Extra
+!x089275C4 Themes de Chambre Extra
+!x08921C18 Objets de Chambre Extra (Sol)
+!x08921C24 Objets de Chambre Extra(Etageres)
+!x08921C34 Objets de Chambre Extra(Mur)
+
+!x08923CE0 Composition de la Chambre
+!x08925448 Composition de la Chambre
+!x08925550 Composition de la Chambre
+!x0892568C Composition de la Chambre
+!x08925790 Composition de la Chambre
+!x089258F0 Composition de la Chambre
+!x089259F4 Composition de la Chambre
+!x08928D94 Composition de la Chambre
+!x08928E04 Composition de la Chambre
+!x08929690 Composition de la Chambre
+!x08929740 Composition de la Chambre
+!x0892A380 Composition de la Chambre
+
+!x08925000 Rｪorganiser les objets
+!x0892537C Placer l'objet ici?
+!x089253C8 Supprimer cet objet?
+!x089254E8 Supprimer tout les objets?
+!x0892560C Retourner a la Chambre DIVA?
+!x08925730 Rｪorganiser un ou deux objets SVP.
+!x08925818 Supprimer l'objet en-dessous 
+!x0892582C pour ajouter cet objet?
+!x0892587C Vous ne pouvez plus
+!x08925890 mettre d'objets ici.
+
+!x0892597C Les donnｪes additionelles
+!x08925990 ne peuvent pas ｭtre chargｪes.
+!x08926C44 Supprimer un objet (Sol)
+!x08926C30 Supprimer un objet (Etagere)
+!x08926C1C Supprimer un objet (Mur)
+!x08926CB8 Dｪplacer un objet (Sol)
+!x08926CA4 Dｪplacer un objet (Etagere)
+!x08926C90 Dｪplacer un objet (Mur)
+
+!x089275B8 Objets de Chambre
+!x089275D0 Objets de Chambre Extra
+!x089275F4 Objets de Chambre
+!x08927600 Objets de Chambre Extra
+!x08928948 Les donnｪes additionelles 
+!x08928960 n'ont pas pas ｭtre chargｪes.
+!x08928974 Utiliser les options 
+!x08928988 d'import pour importer.
+
+!x08928858 Accｫs au Memory Stick
+!x0892886C pour vｪrifier les donnｪes additionelles.
+!x08928880 Ne pas retirer le Memory Stick!
+
+# DIVA room (cont.)
+
+!x0892AC04 Room Menu
+!x0892B1D8 Composition de la Chambre
+!x0892B1E4 Cadeaux
+!x0892B1F0 Juke-Box
+!x0892B1FC Galerie des PV
+!x0892B208 Galerie d'images
+!x0892B214 Sleep Timer
+!x0892B220 Navigation Timer
+!x0892B22C Rｪveil
+!x0892BC2C Retourner au menu.
+!x0892BC5C Utiliser le/la %s?
+!x0892BC70 Changer le/la %s?
+!x0892BC80 Donner un %s?
+!x0892BD08 Bonus pour utiliser la Chambre DIVA.
+!x0892BD1C 1000 Points DIVA gagnes.
+!x0892BD9C Rｪgler le temps de %02d:%02d.
+!x0892BDAC Supprimer le/la %s?
+
+# DIVA room (cont.)
+
+!x0892CB54 Menu
+!x0892CB6C Lecteur de Musique
+!x0892CB80 Regarder/Editer une Playlist
+!x0892CD44 Regarder/Editer une Playlist
+!x0892CB94 Crｪer une playlist
+!x0892CBA8 Supprimer une playlist
+!x0892D3EC Supprimer une playlist
+!x0892CBBC Retour
+!x0892CC4C Lecteur de Musique
+!x0892D0A0 Editer une playlist
+!x0892D678 Editer une playlist
+#!x0892F9D8 (%2d / %2d)
+#!x0892FF48 (%2d / %2d)
+#!x08931C48 %2d/%2d：%s
+!x08932574 Retourner ｬ la Chambre DIVA?
+!x089329A8 Retourner ｬ la Chambre DIVA?
+
+# DIVA room (playlist dialogs)
+
+!x08932694 Voulez-vous mettre fin ｬ
+!x089326C0 l'ｪdition de votre Playlist?
+
+!x089326F4 La Playlist ne sera pas sauvegarder
+!x08932720 si vous quittez maintenant.
+!x0893274C Etes-vous sur de quitter?
+
+!x089327D4 La Playlist suivante:
+!x08932828 Etes-vous sur de la supprimer?
+
+!x0893285C Les musiques ne sont pas enregistrｪes.
+
+!x08932888 La Playlist actuelle n'a pas 
+!x089328B4 ｪtｪ sauvegardｪe. Etes-vous sur de quitter?
+
+!x089328E8 Aucune Playlist n'est disponible.
+!x08932914 Voulez-vous en crｪer une?
+!x08932974 Aucune Playlist est disponible.
+
+!x08932A08 Le nombre limite d'enregistrements a ｪtｪ atteint.
+
+!x08932A3C Le nombre limite de Playlist
+!x08932A68 est atteint.
+
+!x08932A9C Les donnｪes additionelles
+!x08932AC8 n'ont pas pu ｭtre chargｪes.
+
+# DIVA room (PV menu)
+
+!x08937150 Menu
+!x08937168 Regarder un PV
+!x08937270 Regarder un PV
+!x0893717C Changer le module
+!x08937190 Regarder/Editer une Playlist
+!x0893748C Regarder/Editer une Playlist
+!x089371A4 Creer une Playlist
+!x089371B8 Supprimer une Playlist
+!x089371CC Retour
+!x08937354 Liste des PV enregistrｪe
+!x08937C5C Liste des PV enregistrｪe
+!x08937720 Editer une Playlist
+!x08937B78 Editer une Playlist
+!x08937D7C Selection du module 
+!x0893C72C Selection du module 
+!x08937E98 Module A
+^x08937E90 Module B
+!x08937EEC Module B
+^x08937ECC Confirmer
+^x08937EE4 Confirmer
+^x08937F20 Confirmer
+!x08937F44 Confirmer
+!x0893C880 Defaut
+!x0893CD2C Extras
+!x0893D0E8 Retourner ｬ la Chambre DIVA?
+!x0893D504 Retourner ｬ la Chambre DIVA?
+!x0893D208 Voulez-vous mettre fin ｬ
+!x0893D234 l'ｪdition de votre Playlist?
+!x0893D268 La Playlist ne sera pas sauvegardｪe
+!x0893D294 si vous quittez maintenant.
+!x0893D2C0 ｪtｪs-vous sur?
+!x0893D330 La Playlist suivante:
+!x0893D384 Etes-vous sur de la supprimer?
+!x0893D3B8 Aucun PV dans la liste!
+!x0893D3E4 Voulez-vous supprimer la Playlist
+!x0893D410 et revenir au menu precedent?
+!x0893D444 Aucune Playlist n'est disponible.
+!x0893D470 Voulez-vous en crｪer une?
+!x0893D4D0 Aucune Playlist est disponible.
+!x0893D564 Le nombre limite d'enregistrements a ｪtｪ atteint.
+!x0893D598 Le nombre limite de Playlist
+!x0893D5C4 est atteint.
+!x0893D600 Les donnｪes additionelles
+!x0893D62C n'ont pas pu ｭtre chargｪes.
+!x0893D694 n'ont pas pu ｭtre chargｪes.
+!x0893D668 Importer des donnｪes 
+!x0893D6C0 via les options d'imports
+!x0893D6EC SVP.
+
+# DIVA room (date/clock and quantity texts)
+
+!x0894B1C4 %04d/%02d/%02d   %02d:%02d:%02d
+!x0894B790 Quantitｪ ∞
+!x0894B7B4 Quantitｪ %d / %d
+!x0894B7F8 Quantitｪ - / -
+!x0894E338 Sleep timer
+!x0894E344 Navigation timer
+!x0894E350 Rｪveil
+
+# (PD2nd savedata dｪtｪction)
+
+!x089522F0 Importer la progression de 『初音ミク -Project DIVA- 2nd』
+!x08952310 dans『初音ミク -Project DIVA- extend』.
+
+!x08952330 Si vous importez votre progression, une copie des
+!x08952350 donnｪes issues de 『初音ミク -Project DIVA- 2nd』 sera 
+!x08952370 intｪgrｪe dans votre sauvegarde 『初音ミク -Project DIVA- extend』
+!x08952390 Penser ｬ garder votre ancienne sauvegarde.
+
+# Music device selection
+
+!x0898E01C Liste des Chansons
+!x0898E028 Memory Stick
+!x0898E3B0 La Memory Stick n'est pas inserｪe.
+!x0898E41C Chansons non trouvｪes.
+!x0898E450 Cette chanson peut ｭtre jouｪe.
+!x0898E47C Cette chanson n'est pas disponible en mode EDIT.
+!x0898E9C0 Objets-Aide
+!x0898FFEC Extras
+!x08990150 n'ont pas pu ｭtre chargｪes.
+!x08990164 Importer des donnｪes
+!x08990188 via les options d'import
+!x0899019C SVP.
+!x089901B8 Les donnｪes additionelles
+!x08990318 Non
+
+# Ad Hoc menu
+
+!x089A78F4 Envoyer des donnｪes Edit
+!x089A7920 Recevoir des donnｪes Edit
+!x089A794C Echange de profil (Envoyer)
+!x089A7978 Echange de profil (Recevoir)
+!x089A79A4 Retourner au menu.
+
+!x089A8830 Profil ｪchangｪ.
+!x089A8860 Pour enregistrer le profil-ami,
+!x089A888C Vous devez sauvegarder vos donnｪes.
+!x089A88F0 Profil ｪchangｪ.
+
+# Module list
+
+0x08C309F8 Original Hatsune Miku
+0x08C309FC Meiko Style
+0x08C30A00 Rin Style
+0x08C30A04 Space Channel 5
+0x08C30A08 Space Channel 39
+0x08C30A0C Gallia Squad 7
+0x08C30A10 P-Style RP
+0x08C30A14 P-Style MG
+0x08C30A18 P-Style LP
+0x08C30A1C P-Style FB
+0x08C30A20 P-Style IS
+0x08C30A24 P-Style CW
+0x08C30A28 P-Style PB
+0x08C30A2C P-Style CG
+0x08C30A30 Cheerleader
+0x08C30A34 Plug-In
+0x08C30A38 Gothic
+0x08C30A3C Princess
+0x08C30A40 Miko
+0x08C30A44 Cat Girl
+0x08C30A48 Pajamas
+0x08C30A4C Heart Hunter
+0x08C30A50 Vocal
+0x08C30A54 Punk
+0x08C30A58 Dancer
+0x08C30A5C Star
+0x08C30A60 Fairy
+0x08C30A64 School
+0x08C30A68 Snow
+0x08C30A6C Arabian
+0x08C30A70 Elegant
+0x08C30A74 China
+0x08C30A78 Magician
+0x08C30A7C White Dress
+0x08C30A80 Pirate
+0x08C30A84 VN02
+0x08C30A88 Galaxy
+0x08C30A8C Hatsune Miku
+0x08C30A90 Hatsune Miku Swimwear S
+0x08C30A94 Hatsune Miku Swimwear
+0x08C30A98 Aile D'ange
+0x08C30A9C Spacy Nurse
+0x08C30AA0 Noble
+0x08C30AA4 Jer★Sey
+0x08C30AA8 Miku Hood
+0x08C30AAC White One Piece
+0x08C30AB0 Vintage Dress
+0x08C30AB4 Pink Pops
+0x08C30AB8 Angel
+0x08C30ABC Natural
+0x08C30AC0 Spiritual
+0x08C30AC4 Colorful Drop
+0x08C30AC8 Yellow
+0x08C30ACC Stroll Style
+0x08C30AD0 Saihate Miku
+0x08C30AD4 ∞
+0x08C30AD8 Powder
+0x08C30ADC Miku Butterfly
+0x08C30AE0 Cute Miku
+0x08C30AE4 Hatsune Miku Swimwear B
+0x08C30AE8 Pink Pops AS
+0x08C30AEC Miku Append
+0x08C30AF0 Haruka Style
+0x08C30AF4 Miku Christmas
+0x08C30AF8 Snow Miku 2010
+0x08C30AFC Snow Miku 2011
+0x08C30B00 Eve White
+0x08C30B04 Hello World.
+0x08C30B08 Racing Miku 2010 ver.
+0x08C30B0C Racing Miku 2011 ver.
+0x08C30B10 Fei-Yen Style
+0x08C30B14 Rolling Girl
+0x08C30B18 Rasetsutomukuro
+0x08C30B1C Orbit
+0x08C30B20 Patchwork
+0x08C30B24 Sonic Style
+0x08C30B28 Tyrol
+0x08C30B2C Conflict
+0x08C30B30 Shiny
+0x08C30B34 TYPE2020
+0x08C30B38 Original Kagamine Rin
+0x08C30B3C Rin Swimwear
+0x08C30B40 Asymmetry R
+0x08C30B44 Cute Rin
+0x08C30B48 Reactor
+0x08C30B4C EoE Style
+0x08C30B50 Cheerful Candy
+0x08C30B54 Rin Swimwear T
+0x08C30B58 Rin Christmas
+0x08C30B5C Ami・Mami Style
+0x08C30B60 Rin School Wear
+0x08C30B64 Rin Append
+0x08C30B68 Nameless No.1
+0x08C30B6C Racing Rin 2010 ver.
+0x08C30B70 Black Star
+0x08C30B74 Kagerou
+0x08C30B78 Rin Sappanwood
+0x08C30B7C Original Kagamine Len
+0x08C30B80 Len Swimwear
+0x08C30B84 Asymmetry L
+0x08C30B88 Punkish
+0x08C30B8C School Jersey
+0x08C30B90 Len Swimwear WS
+0x08C30B94 Len Christmas
+0x08C30B98 Len School Wear
+0x08C30B9C Len Append
+0x08C30BA0 Blue Moon
+0x08C30BA4 Len Indigo Iron
+0x08C30BA8 Strange Dark
+0x08C30BAC Nameless No.7
+0x08C30BB0 Original Megurine Luka
+0x08C30BB4 Luka Swimwear
+0x08C30BB8 Chiffon Dress
+0x08C30BBC VF Suit
+0x08C30BC0 Fraulein
+0x08C30BC4 Luka Flower
+0x08C30BC8 Hard Rock
+0x08C30BCC Luka Swimwear P
+0x08C30BD0 Luka Christmas
+0x08C30BD4 Witch Style
+0x08C30BD8 Chihaya Style
+0x08C30BDC Fairy Macaron
+0x08C30BE0 Silence
+0x08C30BE4 Racing Luka 2010 ver.
+0x08C30BE8 Cyber Nation
+0x08C30BEC Nagisa Replica
+0x08C30BF0 Nagisa Replica AS
+0x08C30BF4 Original Kaito
+0x08C30BF8 Kaito Swimwear
+0x08C30BFC Campus
+0x08C30C00 Classic
+0x08C30C04 Cyber Cat
+0x08C30C08 Kaito Swimwear V
+0x08C30C0C Kaito Swimwear V AS
+0x08C30C10 Kaito Christmas
+0x08C30C14 White Blazer
+0x08C30C18 Drizzle
+0x08C30C1C Violet
+0x08C30C20 VF Ninja
+0x08C30C24 VF Ninja AS
+0x08C30C28 Original Meiko
+0x08C30C2C Meiko Swimwear
+0x08C30C30 Fluffy Coat
+0x08C30C34 Scarlet
+0x08C30C38 Modern Girl
+0x08C30C3C Meiko Swimwear B
+0x08C30C40 Modern Girl AS
+0x08C30C44 Roman Taisyou
+0x08C30C48 Meiko Christmas
+0x08C30C4C Sexy Pudding
+0x08C30C50 Black Tail Thief
+0x08C30C54 Autumn
+0x08C30C58 Racing Meiko 2010 ver.
+0x08C30C5C Lorelei
+0x08C30C60 Original Akita Neru
+0x08C30C64 Ethnic
+0x08C30C68 Akita Neru Swimwear
+0x08C30C6C Club Girl
+0x08C30C70 Original Yowane Haku
+0x08C30C74 Cyber Dive
+0x08C30C78 Yowane Haku Swimwear
+0x08C30C7C Gothic Purple
+0x08C30C80 Sakine Meiko Original
+0x08C30C84 Black Dress
+0x08C30C88 Sakine Meiko Swimwear
+0x08C30C8C Nostalgy
+0x08C30C90 Black Dress NS
+
+# Character rooms
+
+0x08C30C94 Cyber Spot
+0x08C30C98 Cyber Spot
+0x08C30C9C Cyber Spot
+0x08C30CA0 Cyber Spot
+0x08C30CA4 Cyber Spot
+0x08C30CA8 Cyber Spot
+0x08C30CAC Cyber Spot
+0x08C30CB0 Cyber Spot
+0x08C30CB4 Cyber Spot
+0x08C30CB8 Cour Impｪriale
+0x08C30CBC Maison de Bonbons
+0x08C30CC0 Maison sur la plage
+0x08C30CC4 Mini Studio
+0x08C30CC8 Chateau Japonnais
+0x08C30CCC Salle de classe
+0x08C30CD0 Fleurs de cerisier
+0x08C30CD4 Memorial Hatsune Miku 
+0x08C30CD8 Cabine de Meiko 
+0x08C30CDC Memorial Len&Rin 
+0x08C30CE0 Memorial Megurine Luka
+0x08C30CE4 Memorial de glace de Kaito 
+0x08C30CE8 Vaisseau Spatial
+0x08C30CEC Labo de recherche
+0x08C30CF0 Jardin de Thｪ
+0x08C30CF4 393 Quｭtes
+0x08C30CF8 Festival de Neige
+0x08C30CFC Bateau Viking
+0x08C30D00 Rose mignon
+
+# Item list
+
+0x08C30D04 Coussin en coeur
+0x08C30D08 Oreiller-Poireaux
+0x08C30D0C Ardoise
+0x08C30D10 Enceinte sur support
+0x08C30D14 Ampli de Guitare 
+0x08C30D18 Synthｪtiseur
+0x08C30D1C Guitare Electrique
+0x08C30D20 Plante
+0x08C30D24 Mini Plante
+0x08C30D28 Cactus
+0x08C30D2C Arbre fantome
+0x08C30D30 Sapin de Noel
+0x08C30D34 Ballon
+0x08C30D38 Pancarte Project DIVA
+0x08C30D3C Gateau Anniv. Miku
+0x08C30D40 Gateau Anniv. Meiko
+0x08C30D44 Gateau Anniv. Rin&Len
+0x08C30D48 Gateau Anniv. Luka
+0x08C30D4C Gateau Anniv. Kaito
+0x08C30D50 Fusｪe
+0x08C30D54 Statue Shite Yanyo
+0x08C30D58 Peluche Tako Luka
+0x08C30D5C Pirori Miku Figure
+0x08C30D60 Pirori Rin Figure
+0x08C30D64 Pancarte Project DIVA 2nd
+0x08C30D68 Coussin Miku
+0x08C30D6C Circuit Elctrique
+0x08C30D70 Thon (Mr. Ooma)
+0x08C30D74 Snow Miku en papier
+0x08C30D78 Petit train DIVA
+0x08C30D7C Ours en peluche (Brun)
+0x08C30D80 Ours en peluche (Blanc)
+0x08C30D84 Ours en peluche (Bleu)
+0x08C30D88 Ours en peluche (Rose)
+0x08C30D8C Boite ｬ chats (3 Tｭtes)
+0x08C30D90 Boite ｬ chats (Noir)
+0x08C30D94 Boite ｬ chats (Blanc)
+0x08C30D98 Boite ｬ chats (Brun)
+0x08C30D9C Kit de jardinage
+0x08C30DA0 Livre illustrｪ
+0x08C30DA4 Shuriken
+0x08C30DA8 Service ｬ Thｪ
+0x08C30DAC Lanterne
+0x08C30DB0 Chandelier
+0x08C30DB4 Lampe de chevｭt
+0x08C30DB8 Anti-moustiques
+0x08C30DBC Tｪlｪvision
+0x08C30DC0 Microscope
+0x08C30DC4 Tｪlｪphone Noir
+0x08C30DC8 Aquarium
+0x08C30DCC Globe
+0x08C30DD0 Boite ｬ bijoux
+0x08C30DD4 Sculpture d'ours en bois
+0x08C30DD8 Jarre
+0x08C30DDC Cage d'oiseaux
+0x08C30DE0 Tableau Electrique
+0x08C30DE4 Emeraude du Chaos Bleu
+0x08C30DE8 Materiel de laboratoire
+0x08C30DEC Appareil Photo
+0x08C30DF0 Gramophone
+0x08C30DF4 Tambour en dｪcoration
+0x08C30DF8 Platine
+0x08C30DFC Tour de cartes
+0x08C30E00 Robot en briques
+0x08C30E04 Fleur en briques
+0x08C30E08 Marteau Pico-Pico
+0x08C30E0C Eventail
+0x08C30E10 Boite sacrｪe de Oracle
+0x08C30E14 Boite ｬ Chocolat
+0x08C30E18 Boite ｬ Bonbons
+0x08C30E1C Tulipes en Pot
+0x08C30E20 Cerisier en Pot
+0x08C30E24 Mini Carpes 
+0x08C30E28 Rose en Pot
+0x08C30E2C Pastｫque
+0x08C30E30 Jardiniｫre de tournesol
+0x08C30E34 Feuilles d'automne en pot
+0x08C30E38 Cercueil
+0x08C30E3C Citrouille d'Halloween
+0x08C30E40 Chaussure de Noel
+0x08C30E44 Mini sapin de Noel
+0x08C30E48 Dodge Ball
+0x08C30E4C Ballon de plage
+0x08C30E50 Nendoroid Hatsune Miku
+0x08C30E54 Nendoroid Kagamine Rin
+0x08C30E58 Nendoroid Kagamine Len
+0x08C30E5C Nendoroid Megurine Luka
+0x08C30E60 Nendoroid Kaito
+0x08C30E64 Nendoroid Meiko
+0x08C30E68 Nendoroid Akita Neru
+0x08C30E6C Nendoroid Yowane Haku
+0x08C30E70 Nendoroid Saki Oto Meiko
+0x08C30E74 Pagnier de fleurs Miku
+0x08C30E78 Canette i CUP Drink
+0x08C30E7C Figurine Rin-Len Noel
+0x08C30E80 Luka & Tako Luka
+0x08C30E84 Kaito dans une Glace
+0x08C30E88 Satellite d'exploration
+0x08C30E8C Nendoroid Snow Miku
+0x08C30E90 Mascotte Shiteyanyo
+0x08C30E94 Nendoroid Hachune Miku
+0x08C30E98 Miku-Luka だま
+0x08C30E9C Rin-Len だま
+0x08C30EA0 Kaito-Meiko だま
+0x08C30EA4 Service ｬ thｪ
+0x08C30EA8 Boule ｬ neige
+0x08C30EAC Tapisserie
+0x08C30EB0 Panneau Route 39
+0x08C30EB4 Drapeau de pirates
+0x08C30EB8 Rouleau suspendu (Faible)
+0x08C30EBC Calligraphie (Chanson)
+0x08C30EC0 Pendule
+0x08C30EC4 Carte du Monde
+0x08C30EC8 Carte des Etoiles
+0x08C30ECC Dｪcor murale de bonbons
+0x08C30ED0 Masque Ethnique
+0x08C30ED4 Masque de Hockey
+0x08C30ED8 Enceinte mural
+0x08C30EDC Epｪes acrochees
+0x08C30EE0 Ornement de poireaux
+0x08C30EE4 Panier de Basket
+0x08C30EE8 Chapeau de Cow-Boy
+0x08C30EEC Rideau d'Opera
+0x08C30EF0 Tｭte de cerf
+0x08C30EF4 Bougies acrochｪes
+0x08C30EF8 Vinyles
+0x08C30EFC Disque d'Or
+0x08C30F00 Tableau (Printemps)
+0x08C30F04 Tableau (Etｪ)
+0x08C30F08 Tableau (Automne)
+0x08C30F0C Tableau (Hiver)
+0x08C30F10 Dｪcor Mural d'Hibiscus
+0x08C30F14 Miroir Magique
+0x08C30F18 Horloge avec Coucou
+0x08C30F1C Luminaire mural
+0x08C30F20 Ecran Plat
+0x08C30F24 Dｪcoration Plume d'aigle
+0x08C30F28 Chauves-Souris
+0x08C30F2C Ornement de Fleur
+0x08C30F30 Dｪcoration de Noel
+0x08C30F34 Panier de fleurs
+0x08C30F38 Puce mｪmoire
+0x08C30F3C TV en briques
+0x08C30F40 Poster 1
+0x08C30F44 Poster 2
+0x08C30F48 Poster 3
+0x08C30F4C Poster 4
+0x08C30F50 Poster 5
+0x08C30F54 Poster 6
+0x08C30F58 Poster 7
+0x08C30F5C Poster 8
+0x08C30F60 Poster 9
+0x08C30F64 Poster 10
+0x08C30F68 Poster 11
+0x08C30F6C Poster 12
+0x08C30F70 Poster d'anniv de Miku
+0x08C30F74 T-Shirt MEIKO
+0x08C30F78 Poster Rin-Len
+0x08C30F7C Poster Luka 
+0x08C30F80 Poster Kaito 
+0x08C30F84 Ombres intｪrieur A
+0x08C30F88 Ombres intｪrieur B
+0x08C30F8C Fils ｬ peluche
+0x08C30F90 Rack ｬ CD
+0x08C30F94 Panneau des rｪsultats
+0x08C30F98 Lanterne Papier(Hatsune)
+0x08C30F9C Lanterne Papier(Kagamine)
+0x08C30FA0 Lanterne Papier(Megurine)
+0x08C30FA4 Lanterne Papier(Kaito)
+0x08C30FA8 Lanterne Papier(Meiko)
+0x08C30FAC Lanterne Papier(Yowane)
+0x08C30FB0 Lanterne Papier(Akita)
+0x08C30FB4 Lanterne Papier(Saki Oto)
+0x08C30FB8 Rouleau vertical(Travail)
+0x08C30FBC Rouleau vertical(Ange)
+0x08C30FC0 Rouleau vertical(Chanteur)
+0x08C30FC4 DIVA×Drum Expert 1
+0x08C30FC8 DIVA×Drum Expert 2
+
+# Shop menu headers
+
+0x08C31FD4 Objets de Chambre (Sol)
+0x08C31FD8 Objets de Chambre (Etagere)
+0x08C31FDC Objets de Chambre (Mur)
+0x08C31FE0 Objets-Aide
+0x08C31FE4 Chambres DIVA
+0x08C31FE8 Themes de Chambre
+0x08C31FEC Modules (Miku)
+0x08C31FF0 Modules (Rin)
+0x08C31FF4 Modules (Len)
+0x08C31FF8 Modules (Luka)
+0x08C31FFC Modules (Kaito)
+0x08C32000 Modules (Meiko)
+0x08C32004 Modules (Neru)
+0x08C32008 Modules (Haku)
+0x08C3200C Modules (Sakine) 
+
+# Item quantity
+
+0x08C332D0 Objet du dｪpart
+0x08C33690 Objet du dｪpart
+0x08C33A50 Objet du dｪpart
+
+0x08C332E4 Niveau NORMAL Rｪussi
+0x08C332FC Niveau NORMAL Rｪussi
+0x08C33308 Niveau NORMAL Rｪussi
+0x08C33314 Niveau NORMAL Rｪussi
+0x08C33320 Niveau NORMAL Rｪussi
+0x08C3332C Niveau NORMAL Rｪussi
+0x08C33338 Niveau NORMAL Rｪussi
+0x08C33344 Niveau NORMAL Rｪussi
+0x08C33350 Niveau NORMAL Rｪussi
+0x08C33380 Niveau NORMAL Rｪussi
+0x08C3338C Niveau NORMAL Rｪussi
+0x08C33398 Niveau NORMAL Rｪussi
+0x08C333A4 Niveau NORMAL Rｪussi
+0x08C333BC Niveau NORMAL Rｪussi
+0x08C333C8 Niveau NORMAL Rｪussi
+0x08C333D4 Niveau NORMAL Rｪussi
+0x08C333E0 Niveau NORMAL Rｪussi
+0x08C33404 Niveau NORMAL Rｪussi
+0x08C33410 Niveau NORMAL Rｪussi
+0x08C33434 Niveau NORMAL Rｪussi
+0x08C33440 Niveau NORMAL Rｪussi
+0x08C3344C Niveau NORMAL Rｪussi
+0x08C33458 Niveau NORMAL Rｪussi
+0x08C3347C Niveau NORMAL Rｪussi
+0x08C33488 Niveau NORMAL Rｪussi
+0x08C33494 Niveau NORMAL Rｪussi
+0x08C334A0 Niveau NORMAL Rｪussi
+0x08C334AC Niveau NORMAL Rｪussi
+0x08C337F4 Niveau NORMAL Rｪussi
+0x08C33800 Niveau NORMAL Rｪussi
+0x08C3380C Niveau NORMAL Rｪussi
+0x08C33818 Niveau NORMAL Rｪussi
+0x08C33824 Niveau NORMAL Rｪussi
+0x08C33830 Niveau NORMAL Rｪussi
+0x08C33848 Niveau NORMAL Rｪussi
+0x08C33854 Niveau NORMAL Rｪussi
+0x08C33860 Niveau NORMAL Rｪussi
+0x08C3386C Niveau NORMAL Rｪussi
+0x08C33878 Niveau NORMAL Rｪussi
+0x08C33884 Niveau NORMAL Rｪussi
+0x08C33890 Niveau NORMAL Rｪussi
+0x08C3389C Niveau NORMAL Rｪussi
+0x08C338A8 Niveau NORMAL Rｪussi
+0x08C338B4 Niveau NORMAL Rｪussi
+0x08C338C0 Niveau NORMAL Rｪussi
+0x08C338CC Niveau NORMAL Rｪussi
+0x08C338D8 Niveau NORMAL Rｪussi
+0x08C338E4 Niveau NORMAL Rｪussi
+0x08C338F0 Niveau NORMAL Rｪussi
+0x08C338FC Niveau NORMAL Rｪussi
+0x08C33920 Niveau NORMAL Rｪussi
+0x08C3392C Niveau NORMAL Rｪussi
+0x08C33938 Niveau NORMAL Rｪussi
+0x08C33974 Niveau NORMAL Rｪussi
+0x08C33980 Niveau NORMAL Rｪussi
+0x08C3398C Niveau NORMAL Rｪussi
+0x08C33998 Niveau NORMAL Rｪussi
+0x08C33A70 Niveau NORMAL Rｪussi
+0x08C33B00 Niveau NORMAL Rｪussi
+0x08C33B90 Niveau NORMAL Rｪussi
+0x08C33BB4 Niveau NORMAL Rｪussi
+0x08C33BD8 Niveau NORMAL Rｪussi
+0x08C33BE4 Niveau NORMAL Rｪussi
+0x08C33BF0 Niveau NORMAL Rｪussi
+0x08C33C14 Niveau NORMAL Rｪussi
+0x08C33C20 Niveau NORMAL Rｪussi
+0x08C33C2C Niveau NORMAL Rｪussi
+0x08C33C38 Niveau NORMAL Rｪussi
+0x08C33C44 Niveau NORMAL Rｪussi
+0x08C33C5C Niveau NORMAL Rｪussi
+0x08C33C68 Niveau NORMAL Rｪussi
+0x08C33C74 Niveau NORMAL Rｪussi
+0x08C33C80 Niveau NORMAL Rｪussi
+0x08C33C8C Niveau NORMAL Rｪussi
+0x08C33CB0 Niveau NORMAL Rｪussi
+0x08C33CBC Niveau NORMAL Rｪussi
+0x08C33CD4 Niveau NORMAL Rｪussi
+0x08C33DA0 Niveau NORMAL Rｪussi
+0x08C33DAC Niveau NORMAL Rｪussi
+0x08C341E4 Niveau NORMAL Rｪussi
+0x08C341F0 Niveau NORMAL Rｪussi
+0x08C341FC Niveau NORMAL Rｪussi
+0x08C34208 Niveau NORMAL Rｪussi
+0x08C34214 Niveau NORMAL Rｪussi
+0x08C34220 Niveau NORMAL Rｪussi
+0x08C3422C Niveau NORMAL Rｪussi
+0x08C34238 Niveau NORMAL Rｪussi
+0x08C34604 Niveau NORMAL Rｪussi
+0x08C34610 Niveau NORMAL Rｪussi
+0x08C3461C Niveau NORMAL Rｪussi
+0x08C34628 Niveau NORMAL Rｪussi
+0x08C34634 Niveau NORMAL Rｪussi
+0x08C34640 Niveau NORMAL Rｪussi
+0x08C3464C Niveau NORMAL Rｪussi
+0x08C34658 Niveau NORMAL Rｪussi
+0x08C34664 Niveau NORMAL Rｪussi
+0x08C34670 Niveau NORMAL Rｪussi
+0x08C3467C Niveau NORMAL Rｪussi
+0x08C34688 Niveau NORMAL Rｪussi
+0x08C34694 Niveau NORMAL Rｪussi
+0x08C346A0 Niveau NORMAL Rｪussi
+0x08C346AC Niveau NORMAL Rｪussi
+0x08C346B8 Niveau NORMAL Rｪussi
+0x08C346C4 Niveau NORMAL Rｪussi
+0x08C346D0 Niveau NORMAL Rｪussi
+0x08C346DC Niveau NORMAL Rｪussi
+0x08C34970 Niveau NORMAL Rｪussi
+0x08C3497C Niveau NORMAL Rｪussi
+0x08C34988 Niveau NORMAL Rｪussi
+0x08C34994 Niveau NORMAL Rｪussi
+0x08C349AC Niveau NORMAL Rｪussi
+0x08C349B8 Niveau NORMAL Rｪussi
+0x08C349C4 Niveau NORMAL Rｪussi
+0x08C349DC Niveau NORMAL Rｪussi
+0x08C349E8 Niveau NORMAL Rｪussi
+0x08C349F4 Niveau NORMAL Rｪussi
+0x08C34A00 Niveau NORMAL Rｪussi
+0x08C34A0C Niveau NORMAL Rｪussi
+0x08C34A18 Niveau NORMAL Rｪussi
+0x08C34A24 Niveau NORMAL Rｪussi
+0x08C34A30 Niveau NORMAL Rｪussi
+0x08C34A48 Niveau NORMAL Rｪussi
+0x08C34A54 Niveau NORMAL Rｪussi
+0x08C34A60 Niveau NORMAL Rｪussi
+0x08C34A6C Niveau NORMAL Rｪussi
+0x08C34A78 Niveau NORMAL Rｪussi
+0x08C34A84 Niveau NORMAL Rｪussi
+0x08C34A90 Niveau NORMAL Rｪussi
+0x08C34A9C Niveau NORMAL Rｪussi
+0x08C34AA8 Niveau NORMAL Rｪussi
+0x08C34AB4 Niveau NORMAL Rｪussi
+0x08C34AC0 Niveau NORMAL Rｪussi
+0x08C34ACC Niveau NORMAL Rｪussi
+0x08C34AD8 Niveau NORMAL Rｪussi
+0x08C34AE4 Niveau NORMAL Rｪussi
+0x08C34AF0 Niveau NORMAL Rｪussi
+0x08C34AFC Niveau NORMAL Rｪussi
+0x08C34B08 Niveau NORMAL Rｪussi
+0x08C34B14 Niveau NORMAL Rｪussi
+0x08C34B20 Niveau NORMAL Rｪussi
+0x08C34B2C Niveau NORMAL Rｪussi
+0x08C34C94 Niveau NORMAL Rｪussi
+0x08C34CA0 Niveau NORMAL Rｪussi
+0x08C34D24 Niveau NORMAL Rｪussi
+0x08C34D30 Niveau NORMAL Rｪussi
+0x08C34D54 Niveau NORMAL Rｪussi
+0x08C34D78 Niveau NORMAL Rｪussi
+0x08C34D84 Niveau NORMAL Rｪussi
+0x08C34D90 Niveau NORMAL Rｪussi
+0x08C34D9C Niveau NORMAL Rｪussi
+0x08C34DA8 Niveau NORMAL Rｪussi
+0x08C34DB4 Niveau NORMAL Rｪussi
+0x08C34DC0 Niveau NORMAL Rｪussi
+0x08C34DD8 Niveau NORMAL Rｪussi
+0x08C350E4 Niveau NORMAL Rｪussi
+0x08C350F0 Niveau NORMAL Rｪussi
+0x08C35108 Niveau NORMAL Rｪussi
+0x08C35120 Niveau NORMAL Rｪussi
+0x08C3512C Niveau NORMAL Rｪussi
+0x08C35138 Niveau NORMAL Rｪussi
+0x08C35144 Niveau NORMAL Rｪussi
+0x08C35150 Niveau NORMAL Rｪussi
+0x08C35168 Niveau NORMAL Rｪussi
+0x08C354A4 Niveau NORMAL Rｪussi
+0x08C354B0 Niveau NORMAL Rｪussi
+0x08C354BC Niveau NORMAL Rｪussi
+0x08C354C8 Niveau NORMAL Rｪussi
+0x08C354E0 Niveau NORMAL Rｪussi
+0x08C35504 Niveau NORMAL Rｪussi
+0x08C35510 Niveau NORMAL Rｪussi
+0x08C3551C Niveau NORMAL Rｪussi
+0x08C35528 Niveau NORMAL Rｪussi
+0x08C35534 Niveau NORMAL Rｪussi
+0x08C35540 Niveau NORMAL Rｪussi
+0x08C35558 Niveau NORMAL Rｪussi
+0x08C35864 Niveau NORMAL Rｪussi
+0x08C35870 Niveau NORMAL Rｪussi
+0x08C3587C Niveau NORMAL Rｪussi
+0x08C35888 Niveau NORMAL Rｪussi
+0x08C358AC Niveau NORMAL Rｪussi
+0x08C358B8 Niveau NORMAL Rｪussi
+0x08C358C4 Niveau NORMAL Rｪussi
+0x08C358E8 Niveau NORMAL Rｪussi
+0x08C35C30 Niveau NORMAL Rｪussi
+0x08C35C3C Niveau NORMAL Rｪussi
+0x08C35C54 Niveau NORMAL Rｪussi
+0x08C35C78 Niveau NORMAL Rｪussi
+0x08C35C84 Niveau NORMAL Rｪussi
+0x08C35C90 Niveau NORMAL Rｪussi
+0x08C35C9C Niveau NORMAL Rｪussi
+0x08C35CB4 Niveau NORMAL Rｪussi
+0x08C35FE4 Niveau NORMAL Rｪussi
+0x08C35FF0 Niveau NORMAL Rｪussi
+0x08C363A4 Niveau NORMAL Rｪussi
+0x08C363B0 Niveau NORMAL Rｪussi
+0x08C36770 Niveau NORMAL Rｪussi
+0x08C3677C Niveau NORMAL Rｪussi
+
+0x08C332F0 Niveau EASY Rｪussi
+0x08C3335C Niveau EASY Rｪussi
+0x08C33368 Niveau EASY Rｪussi
+0x08C33374 Niveau EASY Rｪussi
+0x08C336A4 Niveau EASY Rｪussi
+0x08C336B0 Niveau EASY Rｪussi
+0x08C336BC Niveau EASY Rｪussi
+0x08C336C8 Niveau EASY Rｪussi
+0x08C336D4 Niveau EASY Rｪussi
+0x08C336E0 Niveau EASY Rｪussi
+0x08C336EC Niveau EASY Rｪussi
+0x08C336F8 Niveau EASY Rｪussi
+0x08C33704 Niveau EASY Rｪussi
+0x08C33710 Niveau EASY Rｪussi
+0x08C3371C Niveau EASY Rｪussi
+0x08C33728 Niveau EASY Rｪussi
+0x08C33734 Niveau EASY Rｪussi
+0x08C33740 Niveau EASY Rｪussi
+0x08C3374C Niveau EASY Rｪussi
+0x08C33758 Niveau EASY Rｪussi
+0x08C33764 Niveau EASY Rｪussi
+0x08C33770 Niveau EASY Rｪussi
+0x08C3377C Niveau EASY Rｪussi
+0x08C33788 Niveau EASY Rｪussi
+0x08C33794 Niveau EASY Rｪussi
+0x08C337A0 Niveau EASY Rｪussi
+0x08C337AC Niveau EASY Rｪussi
+0x08C337B8 Niveau EASY Rｪussi
+0x08C337C4 Niveau EASY Rｪussi
+0x08C337D0 Niveau EASY Rｪussi
+0x08C337DC Niveau EASY Rｪussi
+0x08C337E8 Niveau EASY Rｪussi
+0x08C3383C Niveau EASY Rｪussi
+0x08C33A64 Niveau EASY Rｪussi
+0x08C33A7C Niveau EASY Rｪussi
+0x08C33A88 Niveau EASY Rｪussi
+0x08C33A94 Niveau EASY Rｪussi
+0x08C33AA0 Niveau EASY Rｪussi
+0x08C33AAC Niveau EASY Rｪussi
+0x08C33AB8 Niveau EASY Rｪussi
+0x08C33AC4 Niveau EASY Rｪussi
+0x08C33AD0 Niveau EASY Rｪussi
+0x08C33ADC Niveau EASY Rｪussi
+0x08C33AE8 Niveau EASY Rｪussi
+0x08C33AF4 Niveau EASY Rｪussi
+0x08C33B0C Niveau EASY Rｪussi
+0x08C33B18 Niveau EASY Rｪussi
+0x08C33B24 Niveau EASY Rｪussi
+0x08C33B30 Niveau EASY Rｪussi
+0x08C33B3C Niveau EASY Rｪussi
+0x08C33B48 Niveau EASY Rｪussi
+0x08C33B54 Niveau EASY Rｪussi
+0x08C33B60 Niveau EASY Rｪussi
+0x08C33B6C Niveau EASY Rｪussi
+0x08C33B78 Niveau EASY Rｪussi
+0x08C33B84 Niveau EASY Rｪussi
+0x08C33B9C Niveau EASY Rｪussi
+0x08C33BA8 Niveau EASY Rｪussi
+0x08C33BC0 Niveau EASY Rｪussi
+0x08C33BCC Niveau EASY Rｪussi
+0x08C33BFC Niveau EASY Rｪussi
+0x08C33C08 Niveau EASY Rｪussi
+0x08C33C98 Niveau EASY Rｪussi
+0x08C34B44 Niveau EASY Rｪussi
+0x08C34B50 Niveau EASY Rｪussi
+0x08C34B5C Niveau EASY Rｪussi
+0x08C34B68 Niveau EASY Rｪussi
+0x08C34B74 Niveau EASY Rｪussi
+0x08C34B80 Niveau EASY Rｪussi
+0x08C34B8C Niveau EASY Rｪussi
+0x08C34B98 Niveau EASY Rｪussi
+0x08C34BA4 Niveau EASY Rｪussi
+0x08C34BB0 Niveau EASY Rｪussi
+0x08C34BBC Niveau EASY Rｪussi
+0x08C34BC8 Niveau EASY Rｪussi
+0x08C34BD4 Niveau EASY Rｪussi
+0x08C34BE0 Niveau EASY Rｪussi
+0x08C34BEC Niveau EASY Rｪussi
+0x08C34BF8 Niveau EASY Rｪussi
+0x08C34C04 Niveau EASY Rｪussi
+0x08C34C10 Niveau EASY Rｪussi
+0x08C34C1C Niveau EASY Rｪussi
+0x08C34C28 Niveau EASY Rｪussi
+0x08C34C34 Niveau EASY Rｪussi
+0x08C34C40 Niveau EASY Rｪussi
+0x08C34C4C Niveau EASY Rｪussi
+0x08C34C58 Niveau EASY Rｪussi
+0x08C34C64 Niveau EASY Rｪussi
+0x08C34C70 Niveau EASY Rｪussi
+0x08C34C7C Niveau EASY Rｪussi
+0x08C34C88 Niveau EASY Rｪussi
+0x08C34CAC Niveau EASY Rｪussi
+0x08C34CB8 Niveau EASY Rｪussi
+0x08C34CC4 Niveau EASY Rｪussi
+0x08C34CD0 Niveau EASY Rｪussi
+0x08C34CDC Niveau EASY Rｪussi
+0x08C34CE8 Niveau EASY Rｪussi
+0x08C34CF4 Niveau EASY Rｪussi
+0x08C34D00 Niveau EASY Rｪussi
+0x08C34D0C Niveau EASY Rｪussi
+
+0x08C33348 Rin Rin Signal
+0x08C3396C Rin Rin Signal
+0x08C33B4C Rin Rin Signal
+0x08C33BE8 Rin Rin Signal
+0x08C34644 Rin Rin Signal
+0x08C34BF0 Rin Rin Signal
+0x08C34D1C Rin Rin Signal
+0x08C34D40 Rin Rin Signal
+0x08C350DC Rin Rin Signal
+0x08C350F4 Rin Rin Signal
+
+0x08C3336C Toutes les chansons
+0x08C33888 Toutes les chansons
+0x08C33894 Toutes les chansons
+0x08C338A0 Toutes les chansons
+0x08C338AC Toutes les chansons
+0x08C338B8 Toutes les chansons
+0x08C338C4 Toutes les chansons
+0x08C338D0 Toutes les chansons
+0x08C338DC Toutes les chansons
+0x08C338E8 Toutes les chansons
+0x08C3393C Toutes les chansons
+0x08C33D98 Toutes les chansons
+0x08C33DA4 Toutes les chansons
+0x08C34A28 Toutes les chansons
+0x08C34A34 Toutes les chansons
+0x08C34B30 Toutes les chansons
+0x08C34C8C Toutes les chansons
+0x08C34C98 Toutes les chansons
+0x08C34CB0 Toutes les chansons
+0x08C34CBC Toutes les chansons
+0x08C34CC8 Toutes les chansons
+0x08C34CD4 Toutes les chansons
+0x08C34CE0 Toutes les chansons
+0x08C34CEC Toutes les chansons
+0x08C34CF8 Toutes les chansons
+0x08C34D04 Toutes les chansons
+0x08C34DC4 Toutes les chansons
+0x08C34DD0 Toutes les chansons
+0x08C35154 Toutes les chansons
+0x08C35160 Toutes les chansons
+0x08C35544 Toutes les chansons
+0x08C35550 Toutes les chansons
+0x08C358C8 Toutes les chansons
+0x08C358D4 Toutes les chansons
+0x08C358E0 Toutes les chansons
+0x08C35CA0 Toutes les chansons
+0x08C35CAC Toutes les chansons
+0x08C35FF4 Toutes les chansons
+0x08C363B4 Toutes les chansons
+0x08C36780 Toutes les chansons
+
+0x08C333B0 Niveau HARD Rｪussi
+0x08C333EC Niveau HARD Rｪussi
+0x08C3341C Niveau HARD Rｪussi
+0x08C33428 Niveau HARD Rｪussi
+0x08C33464 Niveau HARD Rｪussi
+0x08C33470 Niveau HARD Rｪussi
+0x08C334B8 Niveau HARD Rｪussi
+0x08C33908 Niveau HARD Rｪussi
+0x08C33914 Niveau HARD Rｪussi
+0x08C33944 Niveau HARD Rｪussi
+0x08C33950 Niveau HARD Rｪussi
+0x08C3395C Niveau HARD Rｪussi
+0x08C33968 Niveau HARD Rｪussi
+0x08C33C50 Niveau HARD Rｪussi
+0x08C33CA4 Niveau HARD Rｪussi
+0x08C33CC8 Niveau HARD Rｪussi
+0x08C33CE0 Niveau HARD Rｪussi
+0x08C33CEC Niveau HARD Rｪussi
+0x08C33CF8 Niveau HARD Rｪussi
+0x08C33D04 Niveau HARD Rｪussi
+0x08C33D10 Niveau HARD Rｪussi
+0x08C33D7C Niveau HARD Rｪussi
+0x08C33D88 Niveau HARD Rｪussi
+0x08C33D94 Niveau HARD Rｪussi
+0x08C34964 Niveau HARD Rｪussi
+0x08C349D0 Niveau HARD Rｪussi
+0x08C34A3C Niveau HARD Rｪussi
+0x08C34B38 Niveau HARD Rｪussi
+0x08C34D3C Niveau HARD Rｪussi
+0x08C34D48 Niveau HARD Rｪussi
+0x08C34D60 Niveau HARD Rｪussi
+0x08C34D6C Niveau HARD Rｪussi
+0x08C34DCC Niveau HARD Rｪussi
+0x08C350FC Niveau HARD Rｪussi
+0x08C35114 Niveau HARD Rｪussi
+0x08C3515C Niveau HARD Rｪussi
+0x08C354D4 Niveau HARD Rｪussi
+0x08C354EC Niveau HARD Rｪussi
+0x08C354F8 Niveau HARD Rｪussi
+0x08C3554C Niveau HARD Rｪussi
+0x08C35894 Niveau HARD Rｪussi
+0x08C358A0 Niveau HARD Rｪussi
+0x08C358D0 Niveau HARD Rｪussi
+0x08C358DC Niveau HARD Rｪussi
+0x08C35C24 Niveau HARD Rｪussi
+0x08C35C48 Niveau HARD Rｪussi
+0x08C35C60 Niveau HARD Rｪussi
+0x08C35C6C Niveau HARD Rｪussi
+0x08C35CA8 Niveau HARD Rｪussi
+0x08C35FFC Niveau HARD Rｪussi
+0x08C363BC Niveau HARD Rｪussi
+0x08C36764 Niveau HARD Rｪussi
+0x08C36788 Niveau HARD Rｪussi
+
+0x08C333F0 Import des donnｪes
+0x08C333F4 du Project Diva 2nd
+
+0x08C33420 *Hello, Planet.
+0x08C337A4 *Hello, Planet.
+0x08C33930 *Hello, Planet.
+0x08C33A98 *Hello, Planet.
+0x08C33C60 *Hello, Planet.
+0x08C346B0 *Hello, Planet.
+0x08C349D4 *Hello, Planet.
+0x08C34C08 *Hello, Planet.
+
+0x08C33498 Migikata no Chou
+0x08C336F0 Migikata no Chou
+0x08C33870 Migikata no Chou
+0x08C33B34 Migikata no Chou
+0x08C34668 Migikata no Chou
+0x08C34C44 Migikata no Chou
+0x08C34D70 Migikata no Chou
+0x08C35118 Migikata no Chou
+
+0x08C33D14 初音ミクでリズムゲームを
+
+0x08C33D1C Jouer 20 Heures
+0x08C33D28 Jouer 20 Heures
+0x08C33D34 Jouer 20 Heures
+0x08C33D40 Jouer 20 Heures
+0x08C33D4C Jouer 20 Heures
+0x08C33D58 Jouer 20 Heures
+0x08C33D64 Jouer 20 Heures
+0x08C33D70 Jouer 20 Heures
+
+0x08C33D20 鏡音リンor鏡音レンで
+0x08C33D24 リズムゲームを
+0x08C33D2C 巡音ルカでリズムゲームを
+0x08C33D38 カイトでリズムゲームを
+0x08C33D44 メイコでリズムゲームを
+0x08C33D50 弱音ハクでリズムゲームを
+0x08C33D5C 亞北ネルでリズムゲームを
+0x08C33D68 咲音メイコでリズムゲームを
+
+# Helper item descriptions [shop] (max lenght: 24)
+
+0x08C33E10 Change tous les SAD et
+0x08C33E14 WORST en SAFE, mais le
+0x08C33E18 rｪsultat sera un CHEAP.
+
+0x08C33E1C Change 10 notes SAFE 
+0x08C33E20 et/ou SAD en FINE.
+
+0x08C33E28 Recharge la jauge
+0x08C33E2C d'ｪnergie si celle-ci
+0x08C33E30 atteint Zero.
+
+0x08C33E34 Autres chose que COOL et
+0x08C33E38 FINE sera comptｪ comme
+0x08C33E3C WORST. Mult. PD x2.
+
+0x08C33E40 La jauge d'ｪnergie ne 
+0x08C33E44 peut que diminuer.
+0x08C33E48 Mult. Points DIVA x4.
+
+#0x8C34998 楽曲不問 EXTREMEクリア
+#0x8C349A0 初音ミクで100回プレイ
+
+0x08C34A40 Chanson Spｪcifique
+0x08C34A4C Chanson Spｪcifique
+0x08C34A58 Chanson Spｪcifique
+0x08C34A64 Chanson Spｪcifique
+0x08C34A70 Chanson Spｪcifique
+0x08C34A88 Chanson Spｪcifique
+0x08C34A94 Chanson Spｪcifique
+0x08C34AA0 Chanson Spｪcifique
+0x08C34AB8 Chanson Spｪcifique
+0x08C34AC4 Chanson Spｪcifique
+0x08C34AD0 Chanson Spｪcifique
+0x08C34ADC Chanson Spｪcifique
+0x08C34AE8 Chanson Spｪcifique
+0x08C34AF4 Chanson Spｪcifique
+0x08C34B00 Chanson Spｪcifique
+0x08C34B0C Chanson Spｪcifique
+0x08C34D88 Chanson Spｪcifique
+0x08C34DA0 Chanson Spｪcifique
+0x08C34DAC Chanson Spｪcifique
+0x08C35130 Chanson Spｪcifique
+0x08C3513C Chanson Spｪcifique
+0x08C35148 Chanson Spｪcifique
+0x08C35508 Chanson Spｪcifique
+0x08C35520 Chanson Spｪcifique
+0x08C3552C Chanson Spｪcifique
+0x08C35538 Chanson Spｪcifique
+0x08C358A4 Chanson Spｪcifique
+0x08C358B0 Chanson Spｪcifique
+0x08C358BC Chanson Spｪcifique
+0x08C35C70 Chanson Spｪcifique
+0x08C35C7C Chanson Spｪcifique
+0x08C35C88 Chanson Spｪcifique
+0x08C35C94 Chanson Spｪcifique
+0x08C35FE8 Chanson Spｪcifique
+0x08C363A8 Chanson Spｪcifique
+0x08C36768 Chanson Spｪcifique
+0x08C36774 Chanson Spｪcifique
+
+### EDIT MODE ###
+
+0x08C36B58 Voulez-vous tenir compte des nouveaux paramｫtres?
+0x08C36B64 Supprimer l'ｪlｪment sｪlectionnｪ.
+0x08C36B68 Etes-vous sur?
+0x08C36B74 Etes-vous sur?
+0x08C36B70 選択された項目を初期化します。
+0x08C36B7C Dｪplacement
+0x08C36B80 Mouvement
+0x08C36B84 Objet
+0x08C36B88 Expression
+0x08C36B8C Joues Teintes
+0x08C36B90 Bouche
+0x08C36B94 Regard
+0x08C36B98 Yeux Pachi
+0x08C36B9C Afficher perso.
+0x08C36BA0 Ombres
+0x08C36BA4 Rｪglages prｪdｪfini
+0x08C36BA8 Rｪglages manuels
+0x08C36BAC Position de dｪpart
+0x08C36BCC Position de dｪpart
+0x08C36BB0 Position de fin
+0x08C36BB4 Temps de dｪplacement
+0x08C36BDC Temps de dｪplacement
+0x08C36BB8 Apercu
+0x08C36BE0 Apercu
+0x08C36BBC Valider
+0x08C36BD4 Valider
+0x08C36BE4 Valider
+0x08C36BC0 Position fixe prｪdｪfinie
+0x08C36BE8 Position fixe prｪdｪfinie
+0x08C36BC4 Mouvement prｪdｪfini
+0x08C36BEC Mouvement prｪdｪfini
+0x08C36BC8 Sｪlection du mouvement
+0x08C36BD0 Interpolation de mouvement
+0x08C36BD8 Regard prｪdｪfinie
+0x08C36BF0 Dｪfinissez le dｪplacement.
+0x08C36BF4 Dｪfinissez la motion.
+0x08C36BF8 Dｪfinissez les objets.
+0x08C36BFC Dｪfinissez le regard.
+0x08C36C00 Dｪfinissez l'affichage des joues teints.
+0x08C36C04 Dｪfinissez la forme de la bouche.
+0x08C36C08 Dｪfinissez les paramｫtres des yeux.
+0x08C36C0C Configurez les yeux Pachi.
+0x08C36C10 Rｪglez l'affichage du personnage.
+0x08C36C14 Rｪglez l'affichage de l'ombre.
+0x08C36C20 Sｪlectionnez un objet a avoir sur le personnage.
+0x08C36C24 Dｪfinissez l'apparence du personnage.
+0x08C36C28 Dｪfinissez la visibilitｪ des joues teints.
+0x08C36C2C Dｪfinissez la forme de la bouche.
+0x08C36C34 Configurez les yeux Pachi. (Certaines expressions ne peuvent pas ｭtre rｪglｪes)
+0x08C36C38 Rｪglez l'affichage du personnage.
+0x08C36C3C Rｪglez l'affichage de l'ombre.
+0x08C36C40 拍データのコピー、削除をすることができます。
+0x08C36C44 %s：コピー中です。○ボタンでペーストできます。
+0x08C36C48 Dｪfinissez un dｪplacement prｪdｪfini.
+0x08C36C4C Rｪglez manuellement un dｪplacement.
+0x08C36C50 Dｪfinissez le point de dｪpart du dｪplacement.
+0x08C36C54 Dｪfinissez le point de fin du dｪplacement.
+0x08C36C58 Rｪglez le temps en nombre de battements pour le dｪplacement.
+0x08C36C5C Prｪvisualisez l'ensemble du dｪplacement.
+0x08C36C60 Valider le dｪplacement actuel.
+0x08C36C6C Dｪfinissez le point de dｪpart en dｪplacant le perso.
+0x08C36C70 Dｪfinissez le point de fin en dｪplacant le perso.
+0x08C36C74 Rｪglez le temps du dｪplacement avec Gauche/Droite.
+0x08C36C80 Choisissez une position fixe prｪdｪfinie.
+0x08C36CC0 Choisissez une position fixe prｪdｪfinie.
+0x08C36C84 Choisissez un mouvement prｪdｪfini.
+0x08C36CCC Choisissez un mouvement prｪdｪfini.
+0x08C36C88 Rｪglez la vitesse du mouvement.
+0x08C36C8C Dｪfinissez le point de dｪpart du mouvement.
+0x08C36C90 Dｪfinissez le mouvement d'interpolation.
+0x08C36C94 Valider le mouvement actuel.
+0x08C36C98 Rｪglez la vitesse du mouvement avec Gauche/Droite.
+0x08C36C9C Dｪfinissez le point de dｪpart du mouvement avec Gauche/Droite.
+0x08C36CA0 モーションの切替時に自動で補間するかを設定して下さい。
+0x08C36CA8 Choisissez une paire d'oeil prｪdｪfinie. 
+0x08C36CAC Rｪglez le temps en nombre de battements pour le mouvement occulaire.
+0x08C36CB0 Prｪvisualisez le regard des yeux.
+0x08C36CB4 Valider le regard actuel.
+0x08C36CBC Rｪglez la vitesse des yeux avec Gauche/Droite.
+
+# Song list
+
+0x08C38A08 Kocchi Muite Baby
+0x08C38A18 Yellow
+0x08C38A28 Colorful x Melody
+0x08C38A38 Hatsune Miku no Gekishou
+0x08C38A48 Meltdown
+0x08C38A58 Just Be Friends
+0x08C38A68 The Disappearance of Hatsune Miku
+0x08C38A78 StargazeR
+0x08C38A88 Requiem for the Phantasma
+0x08C38A98 Migikata no Chou -39's Giving Day Edition-
+0x08C38AA8 Your Diva
+0x08C38AB8 Stardust Utopia
+0x08C38AC8 Electric Angel
+0x08C38AD8 Time Limit
+0x08C38AE8 Melody...
+0x08C38AF8 Iroha Uta
+0x08C38B08 Colorful x Sexy
+0x08C38B18 SPiCa -39's Giving Day Edition-
+0x08C38B28 Luka Luka★Night Fever
+0x08C38B38 Uta ni Katachi wa Nai Keredo
+0x08C38B48 Two-Faced Lovers
+0x08C38B58 *Hello, Planet.(I.M.PLSE-EDIT)
+0x08C38B68 Nayuta no Kanata Made
+0x08C38B78 Kodoku no Hate
+0x08C38B88 Puzzle
+0x08C38B98 Palette
+0x08C38BA8 Sennen no Dokusouka (DIVA edit)
+0x08C38BB8 Boukyaku Shinjuu
+0x08C38BC8 Musunde Hiraite Rasetsu to Mukuro
+0x08C38BD8 Rolling Girl
+0x08C38BE8 Starduster
+0x08C38BF8 Paradichlorobenzene
+0x08C38C08 Tsugai Kogarashi
+0x08C38C18 Nekomimi Switch
+0x08C38C28 Sekiranun Graffiti
+0x08C38C38 Rin Rin Signal -Append Mix-
+0x08C38C48 Ievan Polkka
+0x08C38C58 Start of Rainbow ～first step～
+0x08C38C68 Aiiro no Hi, Sora Kakeru ～second flight～
+0x08C38C78 Koi no Inori ～extend your wave～
+
+# Helper item descriptions [free play] (max lenght: 24)
+
+0x08C43E24 Change tous les SAD et
+0x08C43E28 WORST en SAFE, mais le
+0x08C43E2C rｪsultat sera un CHEAP.
+
+0x08C43E34 Change 10 notes SAFE
+0x08C43E38 et/ou SAD en FINE.
+
+0x08C43E44 Recharge la jauge
+0x08C43E48 d'ｪnergie si celle-ci
+0x08C43E4C atteint Zero.
+
+0x08C43E54 Autres chose que COOL et
+0x08C43E58 FINE sera comptｪ comme
+0x08C43E5C WORST. Mult. PD x2.
+
+0x08C43E64 La jauge d'ｪnergie ne 
+0x08C43E68 peut que diminuer.
+0x08C43E6C Mult. Points DIVA x4.
+
+# Main menu descriptions (max lenght: 24)
+
+# (Rhythm Game)
+0x08C43EC8 Jouer au Jeu.
+0x08C43ECC  
+# (Character Select)
+0x08C43ED8 Changer votre perso
+0x08C43EDC et/ou module.
+# (DIVA Room)
+0x08C43EE8 Aller dans la Chambre 
+0x08C43EEC et passer du bon temps
+0x08C43EF0 avec votre perso.
+# (Shop)
+0x08C43EF8 Acheter des modules et
+0x08C43EFC divers objets.
+# (Play Record)
+0x08C43F08 Editer votre profil
+0x08C43F0C et regarder vos
+0x08C43F10 statistiques.
+# (Edit)
+0x08C43F18 Crｪer des PV originaux 
+0x08C43F1C et des jeux de rythme.
+0x08C43F20  
+# (Ad Hoc)
+0x08C43F28 Echanger des donnｪes
+0x08C43F2C et votre profil
+0x08C43F30 via Ad Hoc.
+0x08C43F34  
+# (Options)
+0x08C43F38 Ajuster le volume
+0x08C43F3C et autres paramｫtres
+0x08C43F40 comme le sauve-auto.
+# (Save)
+0x08C43F48 Sauver votre
+0x08C43F4C progression.
+0x08C43F50  
+# (Back to Title)
+0x08C43F58 Quit le jeu et retourne 
+0x08C43F5C ｬ l'ｪcran-titre.
+
+# Main menu entering confirmation messages
+
+0x08C43F8C Aller ｬ la Boutique?
+0x08C43F98 Aller voir les Stats?
+0x08C43FB0 Aller au mode Ad Hoc?
+0x08C43FD4 Retourner ｬ l'ｪcran-titre?
+0x08C43FD8 Vous allez perdre votre progression.
+0x08C43FDC Etes-vous sur?
+
+0x08C43FE0 Vous pouvez aller
+0x08C43FE4 voir la Chambre de
+0x08C43FE8 Miku.
+
+0x08C43FF0 Vous pouvez aller
+0x08C43FF4 voir la Chambre de
+0x08C43FF8 Rin.
+
+0x08C44000 Vous pouvez aller
+0x08C44004 voir la Chambre de
+0x08C44008 Len.
+
+0x08C44010 Vous pouvez aller
+0x08C44014 voir la Chambre de
+0x08C44018 Luka.
+
+0x08C44020 Vous pouvez aller
+0x08C44024 voir la Chambre de
+0x08C44028 Kaito.
+
+0x08C44030 Vous pouvez aller
+0x08C44034 voir la Chambre de
+0x08C44038 Meiko.
+
+0x08C44040 Vous pouvez aller
+0x08C44044 voir la Chambre de
+0x08C44048 Neru.
+
+0x08C44050 Vous pouvez aller
+0x08C44054 voir la Chambre de
+0x08C44058 Haku.
+
+0x08C44060 Vous pouvez aller
+0x08C44064 voir la Chambre de
+0x08C44068 S.Meiko.
+
+0x088E5228 インポートデータが読み込めないため
+0x088E5234 このままDIVAルームを見に行くと、
+0x088E5240 ルームのレイアウトが初期設定の状態に戻ります。
+0x088E525C ※追加データのインポートはオプション画面で行えます。
+
+# (Edit mode menu descriptions)
+
+0x08C44070 Crｪer un nouveau 
+0x08C44074 EDIT PLAY.
+0x08C44078
+
+0x08C44080 Jouer un 
+0x08C44084 EDIT PLAY crｪｪ.
+0x08C44088
+
+0x08C44090 Visionner en 
+0x08C44094 forme de PV un
+0x08C44098 EDIT PLAY crｪe.
+
+# Options menu descriptions
+
+0x08C440A0 Change le volume des
+0x08C440A4 chansons.
+0x08C440A8 
+
+0x08C440B0 Change le volume du
+0x08C440B4 systｫme BGM.
+
+0x08C440C0 Change le volume du
+0x08C440C4 SE.
+
+0x08C440D0 Activer ou pas la 
+0x08C440D4 sauvegarde auto.
+
+0x08C440E0 Activer ou pas le  
+0x08C440E4 chargement des donnｪes
+0x08C440E8 installｪes.
+
+0x08C440F0 Importer des donnｪes
+0x08C440F4 additionelles en 
+0x08C440F8 donnｪes Extras.
+
+0x08C44100 前作データの引継ぎを
+0x08C44104 することができます。
+
+# DIVA room playlists
+
+0x08C66848 Playlist 1
+0x08C6684C Playlist 2
+0x08C66850 Playlist 3
