@@ -1,10 +1,18 @@
+Fichier de traduction FR pour Project Diva Extend
+DATE: 26/11/11
+
+#ｪ = e
+#ｫ = e
+#ｬ = a
+#ｭ = e
+
 # Data import menu entries
 
 !x0881562C Rhythm Game PV
 !x08815640 Modules
 !x08815654 Themes de Chambre
 !x08815668 Objets de Chambre (Sol)
-!x0881567C Objets de Chambre (Etagere)
+!x0881567C Objets de Chambre (Etagｫre)
 !x08815690 Objets de Chambre (Mur)
 !x088156A4 Edit Music and Music Data
 !x088156B8 Edit Motion
@@ -86,7 +94,7 @@
 !x08845B50 Ce jeu supporte la sauvegarde automatique.
 !x08845B64 Ne retirez pas le Memory Stick ou n'ｪteignez pas 
 !x08845B78 la PSP durant la sauvegarde.  Merci CodeStation
-!x08845B8C Project Diva Extend Patch Francais 24/11/11
+!x08845B8C Project Diva Extend Patch Francais 26/11/11
 
 ### EDIT MODE ###
 
@@ -119,15 +127,15 @@
 !x0885DD18 Personnage
 !x0885E9F8 Personnage
 
-!x08847CE4 mesure %3d temps %1.1f ～ mesure %3d temps %1.1f (Total：%0.1f temps)
-!x08847CFC mesure %3d temps %1.1f ～ mesure %3d temps %1.1f (Total： %0.1f temps)
-!x08847D10 mesure %3d temps %1.1f ～ mesure %3d temps %1.1f (Total：  %0.1f temps)
-!x08847D14 mesure %3d temps %1.1f ～ mesure %3d temps %1.1f (Total：   %0.1f temps)
-!x08849080 Cotｪ　[%3.3f]
+!x08847CE4 mesure %3d temps %1.1f - mesure %3d temps %1.1f (Total：%0.1f temps)
+!x08847CFC mesure %3d temps %1.1f - mesure %3d temps %1.1f (Total： %0.1f temps)
+!x08847D10 mesure %3d temps %1.1f - mesure %3d temps %1.1f (Total：  %0.1f temps)
+!x08847D14 mesure %3d temps %1.1f - mesure %3d temps %1.1f (Total：   %0.1f temps)
+!x08849080 Cotｪ [%3.3f]
 !x088490A8 Profondeur [%3.3f]
-!x088490E0 Hauteur　[%3.3f]
+!x088490E0 Hauteur [%3.3f]
 !x088490F0 Angle [%3.3f]
-!x08849128 Vitesse[%3d %%]
+!x08849128 Vitesse [%3d %%]
 !x0884A8DC Edit TOP
 !x0884B1B4 Edit TOP
 !x0884BDB4 Edit TOP
@@ -140,7 +148,7 @@
 !x0884E1E4 Edit TOP
 !x0885AF70 Edit TOP
 !x0885D458 Edit TOP
-!x0884B364 Mode Edit
+!x0884B364 Mode Edit.
 !x0884BFA4 Non
 !x0886022C Non
 !x0884CAB4 Afficher
@@ -165,7 +173,7 @@
 ### EDIT MODE (2nd block) ###
 
 !x0887E260 Mode Sｪlection
-!x0887E2B4 Commencer de zｪro
+!x0887E2B4 Crｪer de zｪro
 !x0887E2C8 Continuer un Edit
 !x0887E2DC Convertir donnｪes PD 2nd 
 !x0887E2F0 Convertir donnｪes PD 1st
@@ -190,7 +198,7 @@
 !x0887EC54 En convertissant les donnｪes EDIT
 !x0887EC68 de 『初音ミク -Project DIVA- 2nd』,
 !x0887EC7C Vous pourrez les modifier
-!x0887EC90 dans 『初音ミク -Project DIVA- extend』.
+!x0887EC90 dans 『初音ミク -Project DIVA- extend.
 !x0887ECA4 Convertir les donnｪes du 2nd?
 
 # convert from PD 1st
@@ -462,10 +470,21 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 
 !x0887B9F0 Cibles
 0x08C36E48 Cibles
+!x088CEEA8 Cibles
+!x088CF7B4 Cibles
+!x088CFE00 Cibles
+!x088D0870 Cibles
+!x088D1914 Cibles
+!x088D1DF8 Cibles
+!x088D6DCC Cibles
 
 0x08C36E4C Saisie intｪractive
 0x08C36E58 Saisie intｪractive
 
+0x08C36E54 Rythme
+!x088B6EDC Rythme
+!x088B77A4 Rythme
+!x088B7B10 Rythme
 0x08C36E54 Rythme
 
 !x0887E304 Copie donnｪes Edit
@@ -476,11 +495,11 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 
 ### EDIT MODE (4th block) ###
 
-!x08863580 %2d minutes %d%d secondes %d%d%d
-!x08864014 Espace utilisｪ:%5d(%d)
-!x08864050 Espace utilisｪ:%5d
-!x0886408C Espace restant:%5d(%d)
-!x088640C8 Espace restant:%5d
+!x08863580 %2d min %d%d sec %d%d%d
+!x08864014 E.utilisｪ:%5d(%d)
+!x08864050 E.utilisｪ:%5d
+!x0886408C E.restant:%5d(%d)
+!x088640C8 E.restant:%5d
 !x08864824 Saisir les cibles en suivant la chanson.
 !x08865F70 Saisir les marqueurs en suivant la chanson.
 !x08866854 Choix du module A
@@ -494,14 +513,14 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 !x08866910 Changer les fonds utilisｪs dans l'EDIT.
 !x0886691C Changer les effets utilisｪs dans l'EDIT.
 !x08866928 Changer le son des boutons du jeu.
-!x088680D0 Signature temps %12d/4
-!x08868650 Signature temps %12d/4
-!x088939D4 Signature temps %12d/4
-!x08868290 Mesure de BPM
-!x08868404 Mesure de BPM
-!x08868A10 Mesure de BPM
-!x088845F8 Mesure de BPM
-!x08893AA0 Mesure de BPM
+!x088680D0 Tempo %12d/4
+!x08868650 Tempo %12d/4
+!x088939D4 Tempo %12d/4
+!x08868290 Mesure BPM
+!x08868404 Mesure BPM
+!x08868A10 Mesure BPM
+!x088845F8 Mesure BPM
+!x08893AA0 Mesure BPM
 !x088682B4 A propos du BPM
 !x088682C8 Valider
 
@@ -513,273 +532,285 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 !x08893A40 Afficher des explications sur le BPM.
 !x08868440 Valider le paramｪtrage de tempo.
 
-!x08868A34 □ボタンで楽曲を再生することができます。
-!x08868A48 再生された楽曲に合わせて△ボタン押し、
-!x08868A5C 30秒間リズムを取ることでBPMの平均値が
-!x08868A70 表示されます。
+!x08868A34 Jouez la chanson avec le bouton □.
+!x08868A48 Marquez le ryhtme de la chanson avec le bouton
+!x08868A5C △. Le BPM moyen calculｪ sur les 30 derniｫres
+!x08868A70 secondes est affichｪ.
 
-!x0886AACC エクストラ
-!x0886B690 エクストラ
-!x0886C04C エクストラ
-!x0886CD30 エクストラ
-!x08895B04 エクストラ
+!x0886AACC Extras
+!x0886B690 Extras
+!x0886C04C Extras
+!x0886CD30 Extras
+!x08895B04 Extras
 
-!x0886B1A8 デフォルト
-!x0886C51C デフォルト
-!x0889555C デフォルト
-!x088972D0 デフォルト
-!x0889C9D8 デフォルト
+!x0886B1A8 Dｪfaut
+!x0886C51C Dｪfaut
+!x0889555C Dｪfaut
+!x088972D0 Dｪfaut
+!x0889C9D8 Dｪfaut
 
-!x0886B314 なし
-!x0886C670 なし
-!x08893F70 なし
-!x08894088 なし
-!x08895600 なし
-!x0889746C なし
-!x0889CB74 なし
+!x0886B314 Aucune
+^x0886B27C Aucune
+^x0886B294 Aucune
+^x0886B2F0 Aucune
+!x0886C670 Aucune
+^x0886C5D8 Aucune
+^x0886C5F0 Aucune
+^x0886C64C Aucune
+!x08893F70 Aucune
+!x08894088 Aucune
+!x08895600 Aucune
+!x0889746C Aucune
+^x08897434 Aucune
+!x0889CB74 Aucune
+^x0889CB38 Aucune
 
-!x0886B5B0 追加するアイテムを最大10個まで選択することができます。
-!x0889A068 追加するアイテムを最大10個まで選択することができます。
-!x0889B11C 追加するアイテムを最大10個まで選択することができます。
-!x0886C904 追加するエフェクトを最大10個まで選択することができます。
-!x0889DFE8 追加するエフェクトを最大10個まで選択することができます。
-!x0886D320 ボタン音：なし
-!x0886D364 素材選択を確定する
-!x088941B8 素材選択を確定する
-!x08896AA8 素材選択を確定する
-!x08899644 素材選択を確定する
-!x0889BB58 素材選択を確定する
-!x0889D924 素材選択を確定する
-!x0886D3B8 リズムゲーム中に再生するボタン音を選択することができます。
-!x0886D46C リズムゲーム中に再生するボタン音を選択することができます。
-!x0886D89C リズムゲーム中に再生するボタン音を選択することができます。
-!x0886D940 リズムゲーム中に再生するボタン音を選択することができます。
-!x0886F00C 追加データを
-!x0886F020 ロードできませんでした。
-!x0889FDA0 ロードできませんでした。
-!x0886F6DC エディットデータのセーブ・ロード・削除をすることができます。
-!x0886FA74 エディットデータのセーブ・ロード・削除をすることができます。
-!x0886F6E8 モジュールや背景など、読み込む素材を変更することができます。
-!x0886FA80 モジュールや背景など、読み込む素材を変更することができます。
-!x0886F6F4 各キャラクターの身長を設定することができます。
-!x0886FA8C 各キャラクターの身長を設定することができます。
-!x0886F700 ターゲットの簡易配置をすることができます。
-!x0886FA98 ターゲットの簡易配置をすることができます。
-!x0886F70C 歌詞の入力されている拍に自動で口パクを設定することができます。
-!x0886FAA4 歌詞の入力されている拍に自動で口パクを設定することができます。
-!x0886F718 各種配置コマンドデータを削除できます。
-!x0886FAB0 各種配置コマンドデータを削除できます。
-!x0886F728 エディットのTOPへ戻ります。
-!x0886FABC エディットのTOPへ戻ります。
-!x0886F734 現在のエディットを終了してモード選択へ戻ります。
-!x0886FAC8 現在のエディットを終了してモード選択へ戻ります。
-!x0886F740 エディットを終了してホームへ戻ります。
-!x0886FAD4 エディットを終了してホームへ戻ります。
-!x0887E1B0 エディットを終了してホームへ戻ります。
-!x0886F754 楽曲が流れ出すタイミングを設定することができます。
-!x0886FAE8 楽曲が流れ出すタイミングを設定することができます。
-!x0886F788 データ
-!x08878D04 データ
-!x0886F7C8 楽曲開始時間設定
-!x0886F7DC スケール設定
-!x0887A820 スケール設定
-!x0886F804 自動口パク入力
-!x0887ABC4 自動口パク入力
-!x0886F818 コマンドの削除
-!x0886F82C エディットTOPへ
-!x0886F840 モード選択へ
-!x0886F854 エディット終了
-!x08871BA4 最初からテストプレイ
-!x08871BFC 最初からテストプレイ
-!x08871C9C 1小節前からテストプレイ
-!x08871BA8 最初から鑑賞
-!x08871C00 最初から鑑賞
-!x08871D00 1小節前から鑑賞
-!x08871BB0 キャンセル
-!x08871C04 キャンセル
-!x08872814 『エディットモード』はオートセーブ機能に対応していません。
-!x0887281C 『システム』画面の『データ』からセーブを行ってください。
-!x08873958 編集モード
-!x08873B90 ＢＰＭと拍数などの編集をすることができます。
-!x08873BCC ターゲットの入力や、表示位置などの編集をすることができます。
-!x08873C08 モーションや表情などキャラクター関連の編集をすることができます。
-!x08873C44 背景やカメラなどステージ関連の編集をすることができます。
-!x08873C80 楽曲の終了小節の位置を設定することができます。
-!x088741C4 選択された小節のデータを
-!x08874200 削除しますがよろしいですか？
-!x08874234 削除・初期化しますがよろしいですか？
-!x088745AC ターゲット：コピー中です。(TOPでは長押しをコピーできません)
-!x08874638 キャラ：コピー中です。(TOPでは配置・目線をコピーできません)
-!x088745FC ステージ：コピー中です。(TOPではカメラ・歌詞をコピーできません)
-!x08874674 小節や拍データのコピー、削除をすることができます。
-!x08875278 プレビューを確認することができます。
-!x0887566C %3d小節
-!x08876144 楽曲の再生情報を設定しています。
-!x0887632C 楽曲の再生情報を設定しました。
-!x08876334 素材データのロードを開始します。
-!x088766B0 楽曲をロードできませんでした。
-!x088766B8 楽曲の途中再生情報設定に失敗しました。
-!x08876A1C 楽曲の途中再生情報設定に失敗しました。
-!x08876A14 記録メディアが入っていません。
-!x088776EC エディットデータに設定されている
-!x08877730 エディットデータに設定されている
-!x088777E0 エディットデータに設定されている
-!x08878278 エディットデータに設定されている
-!x088788DC エディットデータに設定されている
-!x08878AD8 エディットデータに設定されている
-!x08879E00 エディットデータに設定されている
-!x0887F624 エディットデータに設定されている
-!x088776F0 追加データを読み込めなかったので、
-!x0887827C 追加データを読み込めなかったので、
-!x08878ADC 追加データを読み込めなかったので、
-!x08879E04 追加データを読み込めなかったので、
-!x0887F628 追加データを読み込めなかったので、
-!x088776F4 置き換えを行いました。
-!x08878280 置き換えを行いました。
-!x08878AE0 置き換えを行いました。
-!x08879E08 置き換えを行いました。
-!x0887F62C 置き換えを行いました。
-!x088776F8 セーブすると現在の状態で
-!x08878AE4 セーブすると現在の状態で
-!x08879E0C セーブすると現在の状態で
-!x0887F630 セーブすると現在の状態で
-!x08877700 保存されますのでご注意ください。
-!x08878AEC 保存されますのでご注意ください。
-!x08879E14 保存されますのでご注意ください。
-!x0887F638 保存されますのでご注意ください。
-!x08877734 楽曲データを読み込めませんでした。
-!x088777E8 楽曲データを読み込めませんでした。
-!x08877740 エディットモード選択画面へ戻ります。
-!x08877814 エディットデータロード画面へ戻ります。
-!x08877864 システムメニューへ戻ります。
-!x08878284 不足している素材の確認は『モード選択』内、
-!x0887828C 『追加データ確認』から行ってください。
-!x088788E0 追加データを読み込めませんでした。
-!x088788E4 足りないデータについては『モード選択』の
-!x088788E8 『追加データ確認』で確認できます。
-!x088788F0 編集を開始するため、追加データの置き換えを
-!x088788B4 行いますがよろしいですか？
-!x08878C5C 作成したエディット内容をセーブします。
-!x08878C68 作成したエディットデータをロードします。
-!x08878C74 データを削除します。
-!x08878C80 楽曲のタイトルを入力することができます。
-!x08878C98 作成したエディットデータにタイトルをつけることができます。
-!x08878D54 セーブ
-!x08878D80 ロード
-!x08878DAC データの削除
-!x08878DD8 楽曲名
-!x08879100 楽曲名
-!x08878E04 エディット名
-!x088791A8 エディット名
-!x088791F8 ※エディット名は未入力です
-!x0887A74C キャラ固有の大きさを反映します。
-!x0887A75C キャラ固有の大きさを反映しません。
+!x0886B5B0 Jusqu'ｬ 10 accesoires peuvent ｭtre ajoutｪs.
+!x0889A068 Jusqu'ｬ 10 accesoires peuvent ｭtre ajoutｪs.
+!x0889B11C Jusqu'ｬ 10 accesoires peuvent ｭtre ajoutｪs.
+!x0886C904 Jusqu'ｬ 10 effets peuvent ｭtre ajoutｪs.
+!x0889DFE8 Jusqu'ｬ 10 effets peuvent ｭtre ajoutｪs.
+!x0886D320 Son: Aucun
+!x0886D364 Confirmer la sｪlection
+!x088941B8 Confirmer la sｪlection
+!x08896AA8 Confirmer la sｪlection
+!x08899644 Confirmer la sｪlection
+!x0889BB58 Confirmer la sｪlection
+!x0889D924 Confirmer la sｪlection
+!x0886D3B8 Choisir le son du bouton ｬ utiliser lorsque vous jouez.
+!x0886D46C Choisir le son du bouton ｬ utiliser lorsque vous jouez.
+!x0886D89C Choisir le son du bouton ｬ utiliser lorsque vous jouez.
+!x0886D940 Choisir le son du bouton ｬ utiliser lorsque vous jouez.
+!x0886F00C Le contenu additionel
+!x0886F020 n'a pu ｭtre chargｪ.
+!x0889FDA0 n'a pu ｭtre chargｪ.
+!x0886F6DC Supprimer/sauver/charger des donnｪes EDIT.
+!x0886FA74 Supprimer/sauver/charger des donnｪes EDIT.
+!x0886F6E8 Changer les modules, dｪcors, chanson, etc ...
+!x0886FA80 Changer les modules, dｪcors, chanson, etc ...
+!x0886F6F4 Rｪgler la taille de chacun des personnages.
+!x0886FA8C Rｪgler la taille de chacun des personnages.
+!x0886F700 Placer automatiquement les cibles.
+!x0886FA98 Placer automatiquement les cibles.
+!x0886F70C Paramｪtrer la synchro auto. des lｫvres selon les paroles saisies.
+!x0886FAA4 Paramｪtrer la synchro auto. des lｫvres selon les paroles saisies.
+!x0886F718 Supprimer divers types de commande.
+!x0886FAB0 Supprimer divers types de commande.
+!x0886F728 Retour au menu du mode EDIT.
+!x0886FABC Retour au menu du mode EDIT.
+!x0886F734 Arrｭter l'ｪdition courante et retourner au choix du mode.
+!x0886FAC8 Arrｭter l'ｪdition courante et retourner au choix du mode.
+!x0886F740 Quitter le mode EDIT et retourner au menu.
+!x0886FAD4 Quitter le mode EDIT et retourner au menu.
+!x0887E1B0 Quitter le mode EDIT et retourner au menu.
+!x0886F754 Paramｪtrer la vitesse de lecture de la chanson.
+!x0886FAE8 Paramｪtrer la vitesse de lecture de la chanson.
+!x0886F788 Donnｪes
+!x08878D04 Donnｪes
+!x0886F7C8 Paramｪtrer le dｪbut de la chanson
+!x0886F7DC Echelle
+!x0887A820 Echelle
+!x0886F804 Synchro. lｫvres auto.
+!x0887ABC4 Synchro. lｫvres auto.
+!x0886F818 Supprimer commandes
+!x0886F82C Retour ｬ l'ｪditeur
+!x0886F840 Choix du mode
+!x0886F854 Quitter le mode EDIT
+!x08871BA4 Essai de jeu ｬ partir du dｪbut
+!x08871BFC Essai de jeu ｬ partir du dｪbut
+!x08871C9C Essai de jeu ｬ partir de la mesure prｪcｪdente
+!x08871BA8 Visionner ｬ partir du dｪbut
+!x08871C00 Visionner ｬ partir du dｪbut
+!x08871D00 Visionner ｬ partir de la mesure prｪcｪdente
+!x08871BB0 Annuler
+!x08871C04 Annuler
+!x08872814 La sauvegarde auto. ne fonctionne pas dans le mode EDIT.
+!x0887281C Veiullez sauvegarder via l'option[Donnｪes] de l'ｪcran [Systｫme].
+!x08873958 Mode Edit
+
+# edit TOP information messages
+
+!x08873B90 Modifier les rythmes et le BPM.
+!x08873BCC Modifier la saisie des cibles, leur position d'affichage, etc.
+!x08873C08 Modifier les movements ou l'expression faciale du personnage.
+!x08873C44 Modifier la scｫne (fond, camｪra).
+!x08873C80 Rｪgler la position de la mesure de fin de la chanson.
+
+!x088741C4 Voulez vous vraiment supprimer
+!x08874200 les mesures selectionnｪes ?
+!x08874234 Etes vous sur de vouloir supprimer ?
+!x088745AC Cibles: copie en cours. (les notes longues ne peuvent etre copiｪes dans l'ｪditeur)
+!x08874638 Personnages: copie en cours. (la position et le regard ne peuvent ｭtre copiｪs dans l'ｪditeur)
+!x088745FC Scｫne: copie en cours. (la camｪra et les paroles ne peuvent ｭtre copiｪes dans l'ｪditeur)
+!x08874674 Copier ou effacer des mesures ou donnｪes de rythme.
+!x08875278 Vous pouvez avoir un apercu.
+!x0887566C %3d mesures
+!x08876144 Application des paramｫtres de lecture de chanson en cours.
+!x0887632C Paramｫtres de lecture de chanson appliquｪs.
+!x08876334 Chargement des donnｪes de l'ｪditeur.
+!x088766B0 La chanson n'a pu ｭtre chargｪe.
+!x088766B8 Echec lors de l'application des paramｫtres de lecture de chanson.
+!x08876A1C Echec lors de l'application des paramｫtres de lecture de chanson.
+!x08876A14 Aucunes donnｪes enregistrｪes.
+!x088776EC Le contenu additionel associｪ ｬ l'EDIT
+!x08877730 Le contenu additionel associｪ ｬ l'EDIT
+!x088777E0 Le contenu additionel associｪ ｬ l'EDIT
+!x08878278 Le contenu additionel associｪ ｬ l'EDIT
+!x088788DC Le contenu additionel associｪ ｬ l'EDIT
+!x08878AD8 Le contenu additionel associｪ ｬ l'EDIT
+!x08879E00 Le contenu additionel associｪ ｬ l'EDIT
+!x0887F624 Le contenu additionel associｪ ｬ l'EDIT
+!x088776F0 n'a pu ｭtre chargｪ.
+!x0887827C n'a pu ｭtre chargｪ.
+!x08878ADC n'a pu ｭtre chargｪ.
+!x08879E04 n'a pu ｭtre chargｪ.
+!x0887F628 n'a pu ｭtre chargｪ.
+!x088776F4 Il a ｪtｪ remplacｪ.
+!x08878280 Il a ｪtｪ remplacｪ.
+!x08878AE0 Il a ｪtｪ remplacｪ.
+!x08879E08 Il a ｪtｪ remplacｪ.
+!x0887F62C Il a ｪtｪ remplacｪ.
+!x088776F8 Attention! La sauvegarde
+!x08878AE4 Attention! La sauvegarde
+!x08879E0C Attention! La sauvegarde
+!x0887F630 Attention! La sauvegarde
+!x08877700 se fera avec l'ｪtat courant.
+!x08878AEC se fera avec l'ｪtat courant.
+!x08879E14 se fera avec l'ｪtat courant.
+!x0887F638 se fera avec l'ｪtat courant.
+!x08877734 Echec de lecture des donnｪes de chanson.
+!x088777E8 Echec de lecture des donnｪes de chanson.
+!x08877740 Retourner au choix du mode Edit.
+!x08877814 Retourner ｬ l'ｪcran de chargement de donnｪes EDIT.
+!x08877864 Retourner au menu systｫme.
+!x08878284 Veuillez vｪrifier les donnｪes manquantes
+!x0887828C via le menu "Vｪrifier donnｪes suppl."
+!x088788E0 Les donnｪes additionnelles n'ont pu ｭtre lues.
+!x088788E4 La vｪrification des donnｪes manquantes peut se
+!x088788E8 faire via l'option "Vｪrifier donnｪes suppl."
+!x088788F0 Les donnｪes additionnelles vont ｭtre remplacｪes
+!x088788B4 pour commencer l'ｪdition. Voulez vous continuer?
+!x08878C5C Sauvegarder le contenu EDIT crｪｪ.
+!x08878C68 Charger le contenu EDIT crｪｪ.
+!x08878C74 Supprimer les donnｪes.
+!x08878C80 Saisir le nom de la chanson.
+!x08878C98 Donner un nom aux donnｪes EDIT crｪｪes.
+!x08878D54 Sauver
+!x08878D80 Charger
+!x08878DAC Suppression de donnｪes
+!x08878DD8 Nom de la chanson
+!x08879100 Nom de la chanson
+!x08878E04 Nom de l'EDIT
+!x088791A8 Nom de l'EDIT
+!x088791F8 ※Le nom ne l'EDIT n'est pas renseignｪ
+!x0887A74C Activer la taille caractｪristique des personnages.
+!x0887A75C Dｪsactiver la taille caractｪristique des personnages.
 #ON
 #OFF
-!x0887AB24 モジュールＡに対して口パクを設定します。
-!x0887AB30 モジュールＢに対して口パクを設定します。
-!x0887AB40 両方のモジュールに対して口パクを設定します。
-!x0887AB68 配置を実行するかの最終確認です。
-!x0887AB78 配置を実行しています。
-!x0887AC14 モジュールＡ
-!x0887C120 モジュールＡ
-!x0887D2A0 モジュールＡ
-!x08893D58 モジュールＡ
-!x0887AC40 モジュールＢ
-!x0887C14C モジュールＢ
-!x0887D2E8 モジュールＢ
-!x08893D68 モジュールＢ
-!x0887AC6C 両方
-!x0887C0F4 両方
-!x0887AF2C 歌詞の入力された拍に、
-!x0887AF58 口パクが自動で入力されます。
-!x0887AF84 入力済みの拍には自動入力されません。
-!x0887AFB0 配置容量が足りない場合は
-!x0887AFDC 途中で入力が止まります。
-!x0887B008 自動口パク入力を実行しますか？
-!x0887B254 自動口パクを入力しています。
-!x0887B3B0 自動口パク入力が完了しました。
-!x0887B81C 配置されているデータを全て削除します。
-!x0887B828 配置されているターゲットを全て削除します。
-!x0887B834 『キャラ』から削除するデータを選択します。
-!x0887B840 『ステージ』から削除するデータを選択します。
-!x0887B84C 配置されているマーカーを全て削除します。
-!x0887B858 ステージのデータを全て削除します。
-!x0887B864 カメラのデータを削除します。
-!x0887B870 背景のデータを削除します。
-!x0887B87C エフェクトのデータを削除します。
-!x0887B888 歌詞のデータを削除します。
-!x0887B894 両方のキャラデータを削除します。
-!x0887B8A0 モジュールＡのキャラデータを削除します。
-!x0887B8AC モジュールＢのキャラデータを削除します。
+!x0887AB24 Paramｪtrer la synchro. lｫvres du module A.
+!x0887AB30 Paramｪtrer la synchro. lｫvres du module B.
+!x0887AB40 Paramｪtrer la synchro. lｫvres des deux modules.
+!x0887AB68 Vｪrification finale de l'application du placement.
+!x0887AB78 Application du placement en cours.
+!x0887AC14 Module A
+!x0887C120 Module A
+!x0887D2A0 Module A
+!x08893D58 Module A
+!x0887AC40 Module B
+!x0887C14C Module B
+!x0887D2E8 Module B
+!x08893D68 Module B
+!x0887AC6C Les deux
+!x0887C0F4 Les deux
+!x0887AF2C Le mouvement des lｫvres sera synchronisｪ
+!x0887AF58 automatiquement avec les paroles saisies.
+!x0887AF84 Les mouvements dｪjｬ saisis restent inchangｪs.
+!x0887AFB0 Si l'espace dispo. n'est pas suffisant,
+!x0887AFDC la synchro. s'arrｭtera en cours de route.
+!x0887B008 Exｪcuter la synchro. automatique?
+!x0887B254 Synchro. automatique en cours...
+!x0887B3B0 Synchro. automatique terminｪe.
+!x0887B81C Supprimer toutes les donnｪes.
+!x0887B828 Supprimer toutes les cibles.
+!x0887B834 Choisir les donnｪes ｬ supprimer de [Persos.].
+!x0887B840 Choisir les donnｪes ｬ supprimer de [Scｫne].
+!x0887B84C Supprimer les marqueurs.
+!x0887B858 Supprimer les donnｪes de scｫne.
+!x0887B864 Supprimer les donnｪes de camｪra.
+!x0887B870 Supprimer les donnｪes de dｪcor.
+!x0887B87C Supprimer les donnｪes d'effet.
+!x0887B888 Supprimer les donnｪes de paroles.
+!x0887B894 Supprimer les donnｪes des deux personnages.
+!x0887B8A0 Supprimer les donnｪes du module A.
+!x0887B8AC Supprimer les donnｪes du module B.
 
-0x08C36F74 キャラのデータを全て削除します。
-0x08C36F78 キャラ配置のデータを削除します。
-0x08C36F7C モーションのデータを削除します。
-0x08C36F80 アイテムのデータを削除します。
-0x08C36F84 表情のデータを削除します。
-0x08C36F88 頬染めのデータを削除します。
-0x08C36F8C 口パクのデータを削除します。
-0x08C36F90 目線のデータを削除します。
-0x08C36F94 目パチのデータを削除します。
-0x08C36F98 モデル表示のデータを削除します。
-0x08C36F9C 影表示のデータを削除します。
+0x08C36F74 Supprimer toutes les donnｪes personnages.キャラのデータを全て削除します
+0x08C36F78 Supprimer les donnｪes de placement des persos.
+0x08C36F7C Supprimer les donnｪes de mouvement des persos.
+0x08C36F80 Supprimer les donnｪes accessoires.
+0x08C36F84 Supprimer les donnｪes d'expression faciale.
+0x08C36F88 Supprimer les donnｪes de coloration des joues.
+0x08C36F8C Supprimer les donnｪes de synchro. lｫvres.
+0x08C36F90 Supprimer les donnｪes de direction du regard.
+0x08C36F94 Supprimer les donnｪes de clignement des yeux.
+0x08C36F98 Supprimer les donnｪes d'affichage des modｫles.
+0x08C36F9C Supprimer les donnｪes d'affichage des ombres.
 
-!x0887B91C 削除を実行するかの最終確認です。
-!x0887B928 削除を実行しています。
-!x0887B974 コマンド削除
-!x0887BDD4 コマンド削除
-!x0887D240 コマンド削除
-!x0887D28C コマンド削除
-!x0887D2D4 コマンド削除
-!x0887DF4C コマンド削除
-!x0887B9C4 全て
-!x0887C264 全て
-!x0887D34C 全て
-!x0887BA1C キャラ
-!x0887BA48 ステージ
-!x0887C218 ステージ
-!x0887BA74 マーカー
-!x0887BE58 確認
-!x0887BF94 確認
-!x0887C420 確認
-!x0887DF60 確認
-!x0887BED8 削除したデータは元に戻せません
-!x0887C4A0 削除したデータは元に戻せません
-!x0887BF04 削除を実行しますか？
-!x0887C040 削除を実行しますか？
-!x0887C4CC 削除を実行しますか？
-!x0887E020 削除を実行しますか？
-!x0887C014 削除したデータは元に戻せません。
-!x0887DFF4 削除したデータは元に戻せません。
-!x0887C228 コマンド選択
-!x0887D268 コマンド選択
-!x0887D2B4 コマンド選択
-!x0887D2FC コマンド選択
-!x0887C290 カメラ
-!x0887C2BC 背景
-!x0887C2E8 エフェクト
-!x0887C314 歌詞
-!x0887C774 コマンドデータ削除中…
-!x0887D00C コマンドデータ削除が終了しました。
-!x0887D254 両方のモジュール
-!x0887D378 キャラ配置
-!x0887D3A4 モーション
-!x0887D3D0 アイテム
-!x0887D3FC 表情
-!x0887D428 頬染め
-!x0887D454 口パク
-!x0887D480 目線
-!x0887D4AC 目パチ
-!x0887D4D8 モデル表示
-!x0887D504 影表示
-!x0887E168 新規エディットデータを作成します。
-!x0887E174 エディットデータの編集ができます。
-!x0887E180 『-Project DIVA- 2nd』のエディットデータをコンバートできます。
-!x0887E18C 『-Project DIVA-』のエディットデータをコンバートできます。
-!x0887E19C エディットデータの複製ができます。
-!x0887E1A4 コマンド選択エディットデータで足りない追加データを確認できます。
-!x08881A34 コマンド選択エディットデータで足りない追加データを確認できます。
+!x0887B91C Confirmation finale avant suppression.
+!x0887B928 Suppression en cours.
+!x0887B974 Supprimer Cmd
+!x0887BDD4 Supprimer Cmd
+!x0887D240 Supprimer Cmd
+!x0887D28C Supprimer Cmd
+!x0887D2D4 Supprimer Cmd
+!x0887DF4C Supprimer Cmd
+!x0887B9C4 Tous supprimer
+!x0887C264 Tous supprimer
+!x0887D34C Tous supprimer
+!x0887BA1C Personnage
+!x0887BA48 Stage
+!x0887C218 Stage
+!x0887BA74 Marqueur
+!x0887BE58 Confirmer
+!x0887BF94 Confirmer
+!x0887C420 Confirmer
+!x0887DF60 Confirmer
+!x0887BED8 Les donnｪes supprimｪes seront irrｪcupｪrables.
+!x0887C4A0 Les donnｪes supprimｪes seront irrｪcupｪrables.
+!x0887BF04 Confirmez vous la suppression?
+!x0887C040 Confirmez vous la suppression?
+!x0887C4CC Confirmez vous la suppression?
+!x0887E020 Confirmez vous la suppression?
+!x0887C014 Les donnｪes supprimｪes seront irrｪcupｪrables.
+!x0887DFF4 Les donnｪes supprimｪes seront irrｪcupｪrables.
+!x0887C228 Choix Cmd
+!x0887D268 Choix Cmd
+!x0887D2B4 Choix Cmd
+!x0887D2FC Choix Cmd
+!x0887C290 Camｪra
+!x0887C2BC Fond
+!x0887C2E8 Effets
+!x0887C314 Paroles
+!x0887C774 Suppression des donnｪes en cours ...
+!x0887D00C Suppression des donnｪes effectuｪe.
+!x0887D254 Tous les modules
+!x0887D378 Pos. Perso
+!x0887D3A4 Mouvements
+!x0887D3D0 Accessoires
+!x0887D3FC Expression
+!x0887D428 Teint. Joues
+!x0887D454 Synchro. Lｫvres
+!x0887D480 Regard
+!x0887D4AC Clign. des yeux
+!x0887D4D8 Affich. modｫle
+!x0887D504 Affich. ombres
+!x0887E168 Crｪer de nouvelles donnｪes EDIT.
+!x0887E174 Modifier des donnｪes EDIT.
+!x0887E180 Importer des donnｪes EDIT de『-Project DIVA- 2nd』.
+!x0887E18C Importer des donnｪes EDIT de『-Project DIVA-』.
+!x0887E19C Dupliquer des donnｪes EDIT.
+!x0887E1A4 Vｪrifier les donnｪes supl. manquantes dans votre donnｪe EDIT.
+!x08881A34 Vｪrifier les donnｪes supl. manquantes dans votre donnｪe EDIT.
 
 # Rhythm Game default message
 
@@ -845,7 +876,7 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 !x088E6620 Sauvegarde-Auto
 !x088E6668 Instal. donnｪes
 !x088E69F4 Import donnｪes additionelles
-!x088E6A04 前作データの引継ぎ
+!x088E6A04 Rｪcupｪration des donnｪes d'un jeu prｪcｪdent
 
 !x088E6E88 Faire un import de donnｪes?
 !x088E6E98 Import des donnｪes de DIVA 2nd.
@@ -1456,9 +1487,9 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 0x08C30E8C Nendoroid Snow Miku
 0x08C30E90 Mascotte Shiteyanyo
 0x08C30E94 Nendoroid Hachune Miku
-0x08C30E98 Miku-Luka だま
-0x08C30E9C Rin-Len だま
-0x08C30EA0 Kaito-Meiko だま
+0x08C30E98 Balles Miku-Luka
+0x08C30E9C Balles Rin-Len
+0x08C30EA0 Balles Kaito-Meiko
 0x08C30EA4 Service ｬ thｪ
 0x08C30EA8 Boule ｬ neige
 0x08C30EAC Tapisserie
@@ -1984,6 +2015,7 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 0x08C34D70 Migikata no Chou
 0x08C35118 Migikata no Chou
 
+# NOTA kienono: manque la fin de la phrase pour traduire correctement
 0x08C33D14 初音ミクでリズムゲームを
 
 0x08C33D1C Jouer 20 Heures
@@ -1995,6 +2027,7 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 0x08C33D64 Jouer 20 Heures
 0x08C33D70 Jouer 20 Heures
 
+# NOTA kienono: manque la fin de la phrase pour traduire correctement
 0x08C33D20 鏡音リンor鏡音レンで
 0x08C33D24 リズムゲームを
 0x08C33D2C 巡音ルカでリズムゲームを
@@ -2025,8 +2058,8 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 0x08C33E44 peut que diminuer.
 0x08C33E48 Mult. Points DIVA x4.
 
-#0x8C34998 楽曲不問 EXTREMEクリア
-#0x8C349A0 初音ミクで100回プレイ
+#0x8C34998 Reussir toutes les chansons en EXTREME
+#0x8C349A0 Jouer 100 fois avec Hatsune Miku
 
 0x08C34A40 Chanson Spｪcifique
 0x08C34A4C Chanson Spｪcifique
@@ -2072,7 +2105,7 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 0x08C36B64 Supprimer l'ｪlｪment sｪlectionnｪ.
 0x08C36B68 Etes-vous sur?
 0x08C36B74 Etes-vous sur?
-0x08C36B70 選択された項目を初期化します。
+0x08C36B70 Rｪinit. de l'ｪlｪment sｪlectionnｪ.
 0x08C36B7C Dｪplacement
 0x08C36B80 Mouvement
 0x08C36B84 Objet
@@ -2119,8 +2152,8 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 0x08C36C34 Configurez les yeux Pachi. (Certaines expressions ne peuvent pas ｭtre rｪglｪes)
 0x08C36C38 Rｪglez l'affichage du personnage.
 0x08C36C3C Rｪglez l'affichage de l'ombre.
-0x08C36C40 拍データのコピー、削除をすることができます。
-0x08C36C44 %s：コピー中です。○ボタンでペーストできます。
+0x08C36C40 Copier/supprimer les donnｪes de tempo.
+0x08C36C44 %s：copie en cours. Coller avec le bouton ○.
 0x08C36C48 Dｪfinissez un dｪplacement prｪdｪfini.
 0x08C36C4C Rｪglez manuellement un dｪplacement.
 0x08C36C50 Dｪfinissez le point de dｪpart du dｪplacement.
@@ -2141,7 +2174,7 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 0x08C36C94 Valider le mouvement actuel.
 0x08C36C98 Rｪglez la vitesse du mouvement avec Gauche/Droite.
 0x08C36C9C Dｪfinissez le point de dｪpart du mouvement avec Gauche/Droite.
-0x08C36CA0 モーションの切替時に自動で補間するかを設定して下さい。
+0x08C36CA0 Veuillez spｪcifier la transition entre mouvement est interpolｪe.
 0x08C36CA8 Choisissez une paire d'oeil prｪdｪfinie. 
 0x08C36CAC Rｪglez le temps en nombre de battements pour le mouvement occulaire.
 0x08C36CB0 Prｪvisualisez le regard des yeux.
@@ -2297,10 +2330,10 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 0x08C44064 voir la Chambre de
 0x08C44068 S.Meiko.
 
-0x088E5228 インポートデータが読み込めないため
-0x088E5234 このままDIVAルームを見に行くと、
-0x088E5240 ルームのレイアウトが初期設定の状態に戻ります。
-0x088E525C ※追加データのインポートはオプション画面で行えます。
+0x088E5228 Les donnｪes n'ont puｭtre importｪes. En
+0x088E5234 vous rendant dans une chambre DIVA,
+0x088E5240 l'agencement sera celui par dｪfaut.
+0x088E525C ※L'import. de contenu additionel peut se faire via l'ｪcran Options.
 
 # (Edit mode menu descriptions)
 
@@ -2339,8 +2372,8 @@ $x08883008 Crｪer un EDIT avec une musique in-game.
 0x08C440F4 additionelles en 
 0x08C440F8 donnｪes Extras.
 
-0x08C44100 前作データの引継ぎを
-0x08C44104 することができます。
+0x08C44100 Rｪcupｪration de donnｪes
+0x08C44104 d'un jeu prｪcｪdent.
 
 # DIVA room playlists
 
