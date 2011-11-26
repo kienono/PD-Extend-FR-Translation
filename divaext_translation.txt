@@ -625,7 +625,7 @@ $x08883008 Crªer un EDIT avec une musique in-game.
 !x08871BB0 Annuler
 !x08871C04 Annuler
 !x08872814 La sauvegarde auto. ne fonctionne pas dans le mode EDIT.
-!x0887281C Veiullez sauvegarder via l'option[Donnªes] de l'ªcran [Syst«me].
+!x0887281C Veuillez sauvegarder via l'option[Donnªes] de l'ªcran [Syst«me].
 !x08873958 Mode Edit
 
 # edit TOP information messages
